@@ -1,0 +1,21 @@
+2023-06-19T09:51:38+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "clotya_excerpt_more" not found or invalid function name in C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters(' [&hellip;]', Array)
+#1 C:\wamp64\www\wordpress\wp-includes\formatting.php(3950): apply_filters('excerpt_more', ' [&hellip;]')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(308): wp_trim_excerpt('<p>Admodum comp...', Object(WP_Post))
+#3 C:\wamp64\www\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters('', Array)
+#4 C:\wamp64\www\wordpress\wp-includes\post-template.php(431): apply_filters('get_the_excerpt', '', Object(WP_Post))
+#5 C:\wamp64\www\wordpress\wp-content\plugins\agama\template-parts\header.php(10): get_the_excerpt(Object(WP_Post))
+#6 C:\wamp64\www\wordpress\wp-content\plugins\palleon\mainClass.php(251): include_once('C:\\wamp64\\www\\w...')
+#7 C:\wamp64\www\wordpress\wp-content\plugins\agama\mainClass.php(142): Palleon::page_output()
+#8 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(308): Agama->agama_check('')
+#9 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#10 C:\wamp64\www\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\wamp64\www\wordpress\wp-settings.php(645): do_action('wp_loaded')
+#12 C:\wamp64\www\wordpress\wp-config.php(97): require_once('C:\\wamp64\\www\\w...')
+#13 C:\wamp64\www\wordpress\wp-load.php(50): require_once('C:\\wamp64\\www\\w...')
+#14 C:\wamp64\www\wordpress\wp-blog-header.php(13): require_once('C:\\wamp64\\www\\w...')
+#15 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#16 {main}
+  thrown в C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php на строке 308
+

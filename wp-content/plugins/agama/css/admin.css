@@ -1,0 +1,30 @@
+/* ================= TEMPLATES ================== */
+#palleon-save-as-agtemplate {
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+/* ================= DARK THEME ================== */
+
+body.dark-theme #palleon-save-as-agtemplate {
+    border-top: 1px dashed #303030;
+}
+
+/* ================= LIGHT THEME ================== */
+
+body.light-theme #palleon-save-as-agtemplate {
+    border-top: 1px dashed #bcbcbc;
+}
+
+/* ================= MEDIA QUERIES ================== */
+
+@media only screen and (max-width: 575px) {
+    .agama-save-template-container {
+        flex-direction: column;
+    }
+
+    .agama-save-template-container>div {
+        margin: 10px 0 0 0;
+        width: 100%;
+    }
+}

@@ -1,0 +1,4072 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clotya Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-07 06:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KlbTheme <klbtheme@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../clotya-core.php:208 ../clotya-core.php:352 ../clotya-core.php:375 
+#: ../clotya-core.php:399
+msgid "Clotya Core"
+msgstr ""
+
+#: ../clotya-core.php:351
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr ""
+
+#: ../clotya-core.php:353 ../clotya-core.php:376
+msgid "Elementor"
+msgstr ""
+
+#: ../clotya-core.php:374 ../clotya-core.php:398
+#, php-format
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr ""
+
+#: ../clotya-core.php:400
+msgid "PHP"
+msgstr ""
+
+#: ../init.php:42
+msgid "Set a Template"
+msgstr ""
+
+#: ../init.php:49
+msgid "No template exist."
+msgstr ""
+
+#: ../init.php:84
+msgid "Share this Product"
+msgstr ""
+
+#: ../init.php:101
+msgid "Copy Link"
+msgstr ""
+
+#: ../init.php:101
+msgid "Copied"
+msgstr ""
+
+#: ../init.php:104
+msgid "You can share the product with your friends"
+msgstr ""
+
+#: ../init.php:153
+msgid "Size Guide "
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:7
+msgid "Sidebar Collapse"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:9 
+#: ../elementor/classes/class-customizing-page-settings.php:20 
+#: ../elementor/classes/class-customizing-page-settings.php:47 
+#: ../elementor/classes/class-helpers-functions.php:195 
+#: ../elementor/widgets/clotya-button.php:201 
+#: ../elementor/widgets/clotya-contact-icon-box.php:35 
+#: ../elementor/widgets/clotya-icon-box.php:35 
+#: ../elementor/widgets/clotya-latest-blog.php:119
+msgid "Yes"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:10 
+#: ../elementor/classes/class-customizing-page-settings.php:21 
+#: ../elementor/classes/class-customizing-page-settings.php:48 
+#: ../elementor/classes/class-helpers-functions.php:196 
+#: ../elementor/widgets/clotya-button.php:202 
+#: ../elementor/widgets/clotya-contact-icon-box.php:36 
+#: ../elementor/widgets/clotya-icon-box.php:36 
+#: ../elementor/widgets/clotya-latest-blog.php:120
+msgid "No"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:18
+msgid "Hide Header"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:29 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:32 
+#: ../inc/customizer.php:308
+msgid "Header Type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:33
+msgid "Select a type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:34 
+#: ../elementor/widgets/clotya-custom-title.php:37 
+#: ../elementor/widgets/clotya-home-slider.php:37 
+#: ../elementor/widgets/clotya-product-carousel.php:38 
+#: ../elementor/widgets/clotya-product-grid.php:38 
+#: ../elementor/widgets/clotya-text-banner.php:37 
+#: ../elementor/widgets/clotya-text-grid.php:37 ../inc/customizer.php:313 
+#: ../inc/customizer.php:1833
+msgid "Type 1"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:35 
+#: ../elementor/widgets/clotya-custom-title.php:38 
+#: ../elementor/widgets/clotya-home-slider.php:38 
+#: ../elementor/widgets/clotya-product-carousel.php:39 
+#: ../elementor/widgets/clotya-product-grid.php:39 
+#: ../elementor/widgets/clotya-text-banner.php:38 
+#: ../elementor/widgets/clotya-text-grid.php:38 ../inc/customizer.php:314 
+#: ../inc/customizer.php:1834
+msgid "Type 2"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:36 
+#: ../elementor/widgets/clotya-home-slider.php:39 
+#: ../elementor/widgets/clotya-product-carousel.php:40 
+#: ../elementor/widgets/clotya-product-grid.php:40 ../inc/customizer.php:315 
+#: ../inc/customizer.php:1835
+msgid "Type 3"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:37 
+#: ../elementor/widgets/clotya-home-slider.php:40 
+#: ../elementor/widgets/clotya-product-carousel.php:41 
+#: ../elementor/widgets/clotya-product-grid.php:41 ../inc/customizer.php:316 
+#: ../inc/customizer.php:1836
+msgid "Type 4"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:38 
+#: ../inc/customizer.php:317
+msgid "Type 5"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:45
+msgid "Hide Footer"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:56
+msgid "Set Logo"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:18
+msgid "Settings"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:24
+msgid "Arrow Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:28 
+#: ../elementor/widgets/clotya-banner-box3.php:36 
+#: ../elementor/widgets/clotya-custom-title.php:36 
+#: ../elementor/widgets/clotya-home-slider.php:36 
+#: ../elementor/widgets/clotya-home-slider.php:163 
+#: ../elementor/widgets/clotya-product-carousel.php:37 
+#: ../elementor/widgets/clotya-product-grid.php:37 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:36 
+#: ../elementor/widgets/clotya-text-banner.php:36 
+#: ../elementor/widgets/clotya-text-grid.php:36 ../inc/customizer.php:2029
+msgid "Select Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:29
+msgid "Nav Style 1"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:30
+msgid "Nav Style 2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:31
+msgid "Nav Style 3"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:32
+msgid "Nav Style 4"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:33
+msgid "Nav Style 5"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:50
+msgid "Query"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:56
+msgid "Exclude"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:67 
+#: ../elementor/widgets/clotya-latest-blog.php:47 
+#: ../elementor/widgets/clotya-offered-products.php:34 
+#: ../elementor/widgets/clotya-product-carousel.php:146 
+#: ../elementor/widgets/clotya-product-grid.php:79 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:149
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:75
+msgid "Offset"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:83 
+#: ../elementor/widgets/clotya-latest-blog.php:101 
+#: ../elementor/widgets/clotya-offered-products.php:79 
+#: ../elementor/widgets/clotya-product-carousel.php:191 
+#: ../elementor/widgets/clotya-product-categories.php:236 
+#: ../elementor/widgets/clotya-product-grid.php:124 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:194
+msgid "Order By"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:92
+msgid "Order"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:111 
+#: ../elementor/widgets/clotya-button.php:33 
+#: ../woocommerce-filter/swatches/swatches.php:91
+msgid "Button"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:117
+msgid "Button Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:121 
+#: ../elementor/classes/class-helpers-functions.php:137
+msgid "Select a option"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:122
+msgid "Primary"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:123
+msgid "Black"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:124
+msgid "White"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:125
+msgid "Outline white"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:126
+msgid "Outline black"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:127
+msgid "Simple Text"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:133 
+#: ../elementor/widgets/clotya-button.php:300
+msgid "Button Style"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:138
+msgid "Square"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:139
+msgid "Round"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:140
+msgid "Circle"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:150
+msgid "Size"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:154
+msgid "Select size"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:155
+msgid "Large"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:156
+msgid "medium"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:157
+msgid "small"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:168 
+#: ../elementor/widgets/clotya-banner-box.php:133 
+#: ../elementor/widgets/clotya-banner-box2.php:106 
+#: ../elementor/widgets/clotya-banner-box3.php:59 
+#: ../elementor/widgets/clotya-banner-box4.php:106 
+#: ../elementor/widgets/clotya-button.php:168 
+#: ../elementor/widgets/clotya-contact-form-7.php:53 
+#: ../elementor/widgets/clotya-counter-banner.php:124 
+#: ../elementor/widgets/clotya-custom-title.php:76 
+#: ../elementor/widgets/clotya-home-slider.php:217 
+#: ../elementor/widgets/clotya-image-box.php:97 
+#: ../elementor/widgets/clotya-text-grid.php:127
+msgid "Alignment"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:173 
+#: ../elementor/widgets/clotya-banner-box.php:138 
+#: ../elementor/widgets/clotya-banner-box2.php:111 
+#: ../elementor/widgets/clotya-banner-box3.php:65 
+#: ../elementor/widgets/clotya-banner-box4.php:111 
+#: ../elementor/widgets/clotya-button.php:173 
+#: ../elementor/widgets/clotya-button.php:280 
+#: ../elementor/widgets/clotya-contact-form-7.php:58 
+#: ../elementor/widgets/clotya-counter-banner.php:129 
+#: ../elementor/widgets/clotya-custom-title.php:81 
+#: ../elementor/widgets/clotya-home-slider.php:222 
+#: ../elementor/widgets/clotya-image-box.php:102 
+#: ../elementor/widgets/clotya-text-grid.php:132
+msgid "Left"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:177 
+#: ../elementor/widgets/clotya-banner-box.php:142 
+#: ../elementor/widgets/clotya-banner-box2.php:115 
+#: ../elementor/widgets/clotya-banner-box3.php:69 
+#: ../elementor/widgets/clotya-banner-box4.php:115 
+#: ../elementor/widgets/clotya-button.php:177 
+#: ../elementor/widgets/clotya-contact-form-7.php:62 
+#: ../elementor/widgets/clotya-counter-banner.php:133 
+#: ../elementor/widgets/clotya-custom-title.php:85 
+#: ../elementor/widgets/clotya-home-slider.php:226 
+#: ../elementor/widgets/clotya-image-box.php:106 
+#: ../elementor/widgets/clotya-text-grid.php:136
+msgid "Center"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:181 
+#: ../elementor/widgets/clotya-banner-box.php:146 
+#: ../elementor/widgets/clotya-banner-box2.php:119 
+#: ../elementor/widgets/clotya-banner-box3.php:73 
+#: ../elementor/widgets/clotya-banner-box4.php:119 
+#: ../elementor/widgets/clotya-button.php:181 
+#: ../elementor/widgets/clotya-button.php:278 
+#: ../elementor/widgets/clotya-contact-form-7.php:66 
+#: ../elementor/widgets/clotya-counter-banner.php:137 
+#: ../elementor/widgets/clotya-custom-title.php:89 
+#: ../elementor/widgets/clotya-home-slider.php:230 
+#: ../elementor/widgets/clotya-image-box.php:110 
+#: ../elementor/widgets/clotya-text-grid.php:140
+msgid "Right"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:193 
+#: ../elementor/widgets/clotya-button.php:257
+msgid "Full width"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:205 
+#: ../elementor/classes/class-helpers-functions.php:208 
+#: ../elementor/widgets/clotya-button.php:67 
+#: ../elementor/widgets/clotya-button.php:70 
+#: ../elementor/widgets/clotya-button.php:290
+msgid "Button Text"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:213 
+#: ../elementor/widgets/clotya-banner-box.php:111 
+#: ../elementor/widgets/clotya-banner-box2.php:84 
+#: ../elementor/widgets/clotya-banner-box3.php:135 
+#: ../elementor/widgets/clotya-banner-box4.php:84 
+#: ../elementor/widgets/clotya-banner-column.php:53 
+#: ../elementor/widgets/clotya-button.php:75 
+#: ../elementor/widgets/clotya-counter-banner.php:92 
+#: ../elementor/widgets/clotya-home-slider.php:150 
+#: ../elementor/widgets/clotya-text-banner.php:77 
+#: ../elementor/widgets/clotya-text-grid.php:96
+msgid "Button Link"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:235 
+#: ../elementor/widgets/clotya-button.php:229
+msgid "Icon Position"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:240 
+#: ../elementor/widgets/clotya-button.php:233
+msgid "Before"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:241 
+#: ../elementor/widgets/clotya-button.php:234
+msgid "After"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:248 
+#: ../elementor/widgets/clotya-button.php:306 
+#: ../elementor/widgets/clotya-contact-form-7.php:104 
+#: ../elementor/widgets/clotya-contact-form-7.php:197 
+#: ../elementor/widgets/clotya-counter-banner.php:453 
+#: ../elementor/widgets/clotya-text-grid.php:380
+msgid "Normal"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:254 
+#: ../elementor/classes/class-helpers-functions.php:292 
+#: ../elementor/widgets/clotya-button.php:241
+msgid "Icon Spacing"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:270 
+#: ../elementor/classes/class-helpers-functions.php:308 
+#: ../elementor/widgets/clotya-banner-box.php:190 
+#: ../elementor/widgets/clotya-banner-box.php:238 
+#: ../elementor/widgets/clotya-banner-box.php:286 
+#: ../elementor/widgets/clotya-banner-box.php:347 
+#: ../elementor/widgets/clotya-banner-box2.php:163 
+#: ../elementor/widgets/clotya-banner-box2.php:211 
+#: ../elementor/widgets/clotya-banner-box2.php:259 
+#: ../elementor/widgets/clotya-banner-box2.php:311 
+#: ../elementor/widgets/clotya-banner-box3.php:190 
+#: ../elementor/widgets/clotya-banner-box3.php:238 
+#: ../elementor/widgets/clotya-banner-box3.php:286 
+#: ../elementor/widgets/clotya-banner-box3.php:338 
+#: ../elementor/widgets/clotya-banner-box4.php:163 
+#: ../elementor/widgets/clotya-banner-box4.php:211 
+#: ../elementor/widgets/clotya-banner-box4.php:259 
+#: ../elementor/widgets/clotya-banner-box4.php:320 
+#: ../elementor/widgets/clotya-banner-column.php:130 
+#: ../elementor/widgets/clotya-category-banner.php:122 
+#: ../elementor/widgets/clotya-category-banner.php:170 
+#: ../elementor/widgets/clotya-category-banner.php:218 
+#: ../elementor/widgets/clotya-comment-text.php:126 
+#: ../elementor/widgets/clotya-comment-text.php:183 
+#: ../elementor/widgets/clotya-contact-form-7.php:110 
+#: ../elementor/widgets/clotya-contact-form-7.php:129 
+#: ../elementor/widgets/clotya-contact-form-7.php:148 
+#: ../elementor/widgets/clotya-contact-form-7.php:203 
+#: ../elementor/widgets/clotya-contact-form-7.php:222 
+#: ../elementor/widgets/clotya-contact-icon-box.php:141 
+#: ../elementor/widgets/clotya-contact-icon-box.php:180 
+#: ../elementor/widgets/clotya-contact-icon-box.php:237 
+#: ../elementor/widgets/clotya-counter-banner.php:174 
+#: ../elementor/widgets/clotya-counter-banner.php:231 
+#: ../elementor/widgets/clotya-counter-banner.php:288 
+#: ../elementor/widgets/clotya-counter-banner.php:380 
+#: ../elementor/widgets/clotya-counter-banner.php:441 
+#: ../elementor/widgets/clotya-counter-text.php:108 
+#: ../elementor/widgets/clotya-counter-text.php:165 
+#: ../elementor/widgets/clotya-custom-title.php:125 
+#: ../elementor/widgets/clotya-custom-title.php:182 
+#: ../elementor/widgets/clotya-home-slider.php:274 
+#: ../elementor/widgets/clotya-home-slider.php:322 
+#: ../elementor/widgets/clotya-home-slider.php:370 
+#: ../elementor/widgets/clotya-home-slider.php:422 
+#: ../elementor/widgets/clotya-icon-box.php:141 
+#: ../elementor/widgets/clotya-icon-box.php:180 
+#: ../elementor/widgets/clotya-icon-box.php:237 
+#: ../elementor/widgets/clotya-image-box.php:163 
+#: ../elementor/widgets/clotya-image-box.php:220 
+#: ../elementor/widgets/clotya-product-categories.php:289 
+#: ../elementor/widgets/clotya-product-categories.php:346 
+#: ../elementor/widgets/clotya-product-categories.php:419 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:292 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:349 
+#: ../elementor/widgets/clotya-testimonial-box.php:119 
+#: ../elementor/widgets/clotya-testimonial-box.php:176 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:208 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:265 
+#: ../elementor/widgets/clotya-text-banner.php:138 
+#: ../elementor/widgets/clotya-text-banner.php:219 
+#: ../elementor/widgets/clotya-text-banner.php:275 
+#: ../elementor/widgets/clotya-text-grid.php:193 
+#: ../elementor/widgets/clotya-text-grid.php:250 
+#: ../elementor/widgets/clotya-text-grid.php:307 
+#: ../elementor/widgets/clotya-text-grid.php:368
+msgid "Opacity"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:286 
+#: ../elementor/widgets/clotya-button.php:378 
+#: ../elementor/widgets/clotya-contact-form-7.php:123 
+#: ../elementor/widgets/clotya-contact-form-7.php:216 
+#: ../elementor/widgets/clotya-counter-banner.php:496 
+#: ../elementor/widgets/clotya-text-grid.php:423
+msgid "Hover"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:336 
+#: ../elementor/widgets/clotya-banner-box.php:359 
+#: ../elementor/widgets/clotya-banner-box2.php:323 
+#: ../elementor/widgets/clotya-banner-box3.php:350 
+#: ../elementor/widgets/clotya-banner-box4.php:332 
+#: ../elementor/widgets/clotya-button.php:311 
+#: ../elementor/widgets/clotya-button.php:382 
+#: ../elementor/widgets/clotya-counter-banner.php:458 
+#: ../elementor/widgets/clotya-counter-banner.php:501 
+#: ../elementor/widgets/clotya-home-slider.php:434 
+#: ../elementor/widgets/clotya-home-slider.php:492 
+#: ../elementor/widgets/clotya-text-grid.php:385 
+#: ../elementor/widgets/clotya-text-grid.php:428 
+#: ../woocommerce-filter/swatches/swatches.php:89 
+#: ../woocommerce-filter/swatches/swatches.php:121
+msgid "Color"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:349 
+#: ../elementor/widgets/clotya-banner-box.php:212 
+#: ../elementor/widgets/clotya-banner-box.php:260 
+#: ../elementor/widgets/clotya-banner-box.php:308 
+#: ../elementor/widgets/clotya-banner-box.php:339 
+#: ../elementor/widgets/clotya-banner-box2.php:185 
+#: ../elementor/widgets/clotya-banner-box2.php:233 
+#: ../elementor/widgets/clotya-banner-box2.php:281 
+#: ../elementor/widgets/clotya-banner-box2.php:303 
+#: ../elementor/widgets/clotya-banner-box3.php:212 
+#: ../elementor/widgets/clotya-banner-box3.php:260 
+#: ../elementor/widgets/clotya-banner-box3.php:308 
+#: ../elementor/widgets/clotya-banner-box3.php:330 
+#: ../elementor/widgets/clotya-banner-box4.php:185 
+#: ../elementor/widgets/clotya-banner-box4.php:233 
+#: ../elementor/widgets/clotya-banner-box4.php:281 
+#: ../elementor/widgets/clotya-banner-box4.php:312 
+#: ../elementor/widgets/clotya-banner-column.php:152 
+#: ../elementor/widgets/clotya-button.php:321 
+#: ../elementor/widgets/clotya-category-banner.php:144 
+#: ../elementor/widgets/clotya-category-banner.php:192 
+#: ../elementor/widgets/clotya-category-banner.php:240 
+#: ../elementor/widgets/clotya-comment-text.php:148 
+#: ../elementor/widgets/clotya-comment-text.php:205 
+#: ../elementor/widgets/clotya-contact-icon-box.php:202 
+#: ../elementor/widgets/clotya-contact-icon-box.php:259 
+#: ../elementor/widgets/clotya-counter-banner.php:196 
+#: ../elementor/widgets/clotya-counter-banner.php:253 
+#: ../elementor/widgets/clotya-counter-banner.php:310 
+#: ../elementor/widgets/clotya-counter-banner.php:402 
+#: ../elementor/widgets/clotya-counter-banner.php:433 
+#: ../elementor/widgets/clotya-counter-text.php:130 
+#: ../elementor/widgets/clotya-counter-text.php:187 
+#: ../elementor/widgets/clotya-custom-title.php:147 
+#: ../elementor/widgets/clotya-custom-title.php:204 
+#: ../elementor/widgets/clotya-home-slider.php:296 
+#: ../elementor/widgets/clotya-home-slider.php:344 
+#: ../elementor/widgets/clotya-home-slider.php:392 
+#: ../elementor/widgets/clotya-home-slider.php:414 
+#: ../elementor/widgets/clotya-icon-box.php:202 
+#: ../elementor/widgets/clotya-icon-box.php:259 
+#: ../elementor/widgets/clotya-image-box.php:185 
+#: ../elementor/widgets/clotya-image-box.php:242 
+#: ../elementor/widgets/clotya-product-categories.php:311 
+#: ../elementor/widgets/clotya-product-categories.php:368 
+#: ../elementor/widgets/clotya-product-categories.php:441 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:314 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:371 
+#: ../elementor/widgets/clotya-testimonial-box.php:141 
+#: ../elementor/widgets/clotya-testimonial-box.php:198 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:230 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:287 
+#: ../elementor/widgets/clotya-text-banner.php:184 
+#: ../elementor/widgets/clotya-text-banner.php:250 
+#: ../elementor/widgets/clotya-text-banner.php:297 
+#: ../elementor/widgets/clotya-text-grid.php:215 
+#: ../elementor/widgets/clotya-text-grid.php:272 
+#: ../elementor/widgets/clotya-text-grid.php:329 
+#: ../elementor/widgets/clotya-text-grid.php:360
+msgid "Typography"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:360 
+#: ../elementor/widgets/clotya-banner-box.php:328 
+#: ../elementor/widgets/clotya-banner-box2.php:350 
+#: ../elementor/widgets/clotya-banner-box4.php:301 
+#: ../elementor/widgets/clotya-button.php:328 
+#: ../elementor/widgets/clotya-client-carousel.php:208 
+#: ../elementor/widgets/clotya-counter-banner.php:422 
+#: ../elementor/widgets/clotya-home-slider.php:461 
+#: ../elementor/widgets/clotya-text-grid.php:349
+msgid "Padding"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:379
+msgid "Margin"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:399 
+#: ../elementor/widgets/clotya-banner-box.php:370 
+#: ../elementor/widgets/clotya-banner-box2.php:334 
+#: ../elementor/widgets/clotya-banner-box3.php:361 
+#: ../elementor/widgets/clotya-banner-box4.php:343 
+#: ../elementor/widgets/clotya-button.php:345 
+#: ../elementor/widgets/clotya-button.php:392 
+#: ../elementor/widgets/clotya-client-carousel.php:192 
+#: ../elementor/widgets/clotya-counter-banner.php:469 
+#: ../elementor/widgets/clotya-counter-banner.php:512 
+#: ../elementor/widgets/clotya-home-slider.php:445 
+#: ../elementor/widgets/clotya-home-slider.php:512 
+#: ../elementor/widgets/clotya-text-banner.php:203 
+#: ../elementor/widgets/clotya-text-grid.php:396 
+#: ../elementor/widgets/clotya-text-grid.php:439
+msgid "Border"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:415 
+#: ../elementor/widgets/clotya-banner-box.php:377 
+#: ../elementor/widgets/clotya-banner-box2.php:341 
+#: ../elementor/widgets/clotya-banner-box3.php:368 
+#: ../elementor/widgets/clotya-banner-box4.php:350 
+#: ../elementor/widgets/clotya-button.php:352 
+#: ../elementor/widgets/clotya-client-carousel.php:199 
+#: ../elementor/widgets/clotya-counter-banner.php:476 
+#: ../elementor/widgets/clotya-counter-banner.php:519 
+#: ../elementor/widgets/clotya-home-slider.php:452 
+#: ../elementor/widgets/clotya-home-slider.php:519 
+#: ../elementor/widgets/clotya-text-banner.php:210 
+#: ../elementor/widgets/clotya-text-grid.php:403 
+#: ../elementor/widgets/clotya-text-grid.php:446
+msgid "Border Radius"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:439
+msgid "Box shadow"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:451
+msgid "Text shadow"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:463 
+#: ../elementor/widgets/clotya-banner-box.php:388 
+#: ../elementor/widgets/clotya-banner-box2.php:361 
+#: ../elementor/widgets/clotya-banner-box3.php:379 
+#: ../elementor/widgets/clotya-banner-box4.php:361 
+#: ../elementor/widgets/clotya-button.php:369 
+#: ../elementor/widgets/clotya-button.php:401 
+#: ../elementor/widgets/clotya-counter-banner.php:487 
+#: ../elementor/widgets/clotya-counter-banner.php:530 
+#: ../elementor/widgets/clotya-home-slider.php:472 
+#: ../elementor/widgets/clotya-home-slider.php:501 
+#: ../elementor/widgets/clotya-text-grid.php:414 
+#: ../elementor/widgets/clotya-text-grid.php:457
+msgid "Background"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:703
+msgid "None"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:704
+msgid "user"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:705
+msgid "youtube"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:706
+msgid "wordpress"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:707
+msgid "whatsapp"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:708
+msgid "watch"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:709
+msgid "vine"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:710
+msgid "eye"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:711
+msgid "twitter"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:712
+msgid "tripadvisor"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:713
+msgid "support"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:714
+msgid "star"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:715
+msgid "star-outline"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:716
+msgid "spotify"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:717
+msgid "soundcloud"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:718
+msgid "snapchat"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:719
+msgid "skype"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:720
+msgid "send"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:721
+msgid "search"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:722
+msgid "rss"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:723
+msgid "reddit"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:724
+msgid "quality"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:725
+msgid "pinterest"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:726
+msgid "odnoklassniki"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:727
+msgid "next"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:728
+msgid "myspace"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:729
+msgid "menu"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:730
+msgid "linkedin"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:731
+msgid "itunes"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:732
+msgid "internet"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:733
+msgid "instagram"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:734
+msgid "heart"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:735
+msgid "google-plus"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:736
+msgid "google-plus2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:737
+msgid "github"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:738
+msgid "gift"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:739
+msgid "filter"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:740
+msgid "facebook"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:741
+msgid "exchange"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:742
+msgid "dribbble"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:743
+msgid "document"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:744
+msgid "digg"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:745
+msgid "delete"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:746
+msgid "close"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:747
+msgid "comment"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:748
+msgid "charity"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:749
+msgid "cart"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:750
+msgid "calendar"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:751
+msgid "box"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:752
+msgid "behance"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:753
+msgid "bag"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:754
+msgid "back"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:755
+msgid "avatar"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:756
+msgid "apple"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:757
+msgid "arrow-up"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:758
+msgid "arrow-right"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:759
+msgid "arrow-right2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:760
+msgid "arrow-down"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:761
+msgid "arrow-down2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:762
+msgid "arrow-500px2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:763
+msgid "arrow-500px"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:25 
+#: ../elementor/widgets/clotya-banner-box2.php:25 
+#: ../elementor/widgets/clotya-banner-box3.php:25 
+#: ../elementor/widgets/clotya-banner-box4.php:25 
+#: ../elementor/widgets/clotya-banner-column.php:25 
+#: ../elementor/widgets/clotya-category-banner.php:26 
+#: ../elementor/widgets/clotya-client-carousel.php:25 
+#: ../elementor/widgets/clotya-comment-text.php:25 
+#: ../elementor/widgets/clotya-contact-icon-box.php:25 
+#: ../elementor/widgets/clotya-counter-banner.php:25 
+#: ../elementor/widgets/clotya-counter-text.php:25 
+#: ../elementor/widgets/clotya-custom-title.php:25 
+#: ../elementor/widgets/clotya-home-slider.php:25 
+#: ../elementor/widgets/clotya-icon-box.php:25 
+#: ../elementor/widgets/clotya-image-box.php:25 
+#: ../elementor/widgets/clotya-latest-blog.php:26 
+#: ../elementor/widgets/clotya-offered-products.php:26 
+#: ../elementor/widgets/clotya-product-carousel.php:26 
+#: ../elementor/widgets/clotya-product-categories.php:26 
+#: ../elementor/widgets/clotya-product-grid.php:26 
+#: ../elementor/widgets/clotya-testimonial-box.php:25 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:25 
+#: ../elementor/widgets/clotya-text-banner.php:25 
+#: ../elementor/widgets/clotya-text-grid.php:25
+msgid "Content"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:32 
+#: ../elementor/widgets/clotya-banner-box.php:36 
+#: ../elementor/widgets/clotya-text-banner.php:32
+msgid "Banner Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:37
+msgid "Type1"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:38
+msgid "Type2"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:39
+msgid "Type3"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:46 
+#: ../elementor/widgets/clotya-banner-box.php:50 
+#: ../elementor/widgets/clotya-banner-box3.php:45 
+#: ../elementor/widgets/clotya-banner-box3.php:49
+msgid "Vertical Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:51 
+#: ../elementor/widgets/clotya-banner-box3.php:50 
+#: ../elementor/widgets/clotya-button.php:277
+msgid "Top"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:52 
+#: ../elementor/widgets/clotya-banner-box3.php:51
+msgid "Middle"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:53 
+#: ../elementor/widgets/clotya-banner-box3.php:52 
+#: ../elementor/widgets/clotya-button.php:279
+msgid "Bottom"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:62 
+#: ../elementor/widgets/clotya-banner-box2.php:35 
+#: ../elementor/widgets/clotya-banner-box3.php:86 
+#: ../elementor/widgets/clotya-banner-box4.php:35 
+#: ../elementor/widgets/clotya-banner-column.php:36 
+#: ../elementor/widgets/clotya-button.php:88 
+#: ../elementor/widgets/clotya-category-banner.php:48 
+#: ../elementor/widgets/clotya-client-carousel.php:111 
+#: ../elementor/widgets/clotya-counter-banner.php:34 
+#: ../elementor/widgets/clotya-home-slider.php:104 
+#: ../elementor/widgets/clotya-image-box.php:34 
+#: ../elementor/widgets/clotya-text-grid.php:47 ../inc/customizer.php:2393 
+#: ../inc/customizer.php:2460 ../inc/customizer.php:3134 
+#: ../inc/customizer.php:3248 ../inc/customizer.php:3404 
+#: ../woocommerce-filter/swatches/swatches.php:90
+msgid "Image"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:70 
+#: ../elementor/widgets/clotya-banner-box2.php:43 
+#: ../elementor/widgets/clotya-banner-box3.php:94 
+#: ../elementor/widgets/clotya-banner-box4.php:43 
+#: ../elementor/widgets/clotya-comment-text.php:32 
+#: ../elementor/widgets/clotya-contact-icon-box.php:68 
+#: ../elementor/widgets/clotya-counter-banner.php:52 
+#: ../elementor/widgets/clotya-counter-text.php:41 
+#: ../elementor/widgets/clotya-custom-title.php:45 
+#: ../elementor/widgets/clotya-icon-box.php:68 
+#: ../elementor/widgets/clotya-image-box.php:42 
+#: ../elementor/widgets/clotya-latest-blog.php:108 
+#: ../elementor/widgets/clotya-offered-products.php:86 
+#: ../elementor/widgets/clotya-product-carousel.php:198 
+#: ../elementor/widgets/clotya-product-categories.php:46 
+#: ../elementor/widgets/clotya-product-categories.php:243 
+#: ../elementor/widgets/clotya-product-grid.php:131 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:201 
+#: ../elementor/widgets/clotya-testimonial-box.php:43 
+#: ../elementor/widgets/clotya-text-banner.php:45 
+#: ../elementor/widgets/clotya-text-grid.php:55 ../inc/customizer.php:3066
+msgid "Title"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:80 
+#: ../elementor/widgets/clotya-banner-box2.php:53 
+#: ../elementor/widgets/clotya-banner-box3.php:104 
+#: ../elementor/widgets/clotya-banner-box4.php:53 
+#: ../elementor/widgets/clotya-counter-banner.php:62 
+#: ../elementor/widgets/clotya-counter-text.php:51 
+#: ../elementor/widgets/clotya-custom-title.php:54 
+#: ../elementor/widgets/clotya-product-categories.php:56 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:45 
+#: ../elementor/widgets/clotya-text-banner.php:66 
+#: ../elementor/widgets/clotya-text-grid.php:65 ../inc/customizer.php:3085
+msgid "Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:90 
+#: ../elementor/widgets/clotya-banner-box2.php:63 
+#: ../elementor/widgets/clotya-banner-box3.php:114 
+#: ../elementor/widgets/clotya-banner-box4.php:63 
+#: ../elementor/widgets/clotya-category-banner.php:56 
+#: ../elementor/widgets/clotya-contact-icon-box.php:77 
+#: ../elementor/widgets/clotya-counter-banner.php:72 
+#: ../elementor/widgets/clotya-icon-box.php:77 
+#: ../elementor/widgets/clotya-text-grid.php:75
+msgid "Description"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:101 
+#: ../elementor/widgets/clotya-banner-box2.php:74 
+#: ../elementor/widgets/clotya-banner-box3.php:125 
+#: ../elementor/widgets/clotya-banner-box4.php:74 
+#: ../elementor/widgets/clotya-counter-banner.php:82 
+#: ../elementor/widgets/clotya-home-slider.php:141 
+#: ../elementor/widgets/clotya-text-grid.php:86
+msgid "Button Title"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:105 
+#: ../elementor/widgets/clotya-banner-box2.php:78 
+#: ../elementor/widgets/clotya-banner-box3.php:129 
+#: ../elementor/widgets/clotya-banner-box4.php:78 
+#: ../elementor/widgets/clotya-counter-banner.php:86 
+#: ../elementor/widgets/clotya-home-slider.php:145 
+#: ../elementor/widgets/clotya-text-grid.php:90
+msgid "Enter button title here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:114 
+#: ../elementor/widgets/clotya-banner-box2.php:87 
+#: ../elementor/widgets/clotya-banner-box3.php:138 
+#: ../elementor/widgets/clotya-banner-box4.php:87 
+#: ../elementor/widgets/clotya-banner-column.php:56 
+#: ../elementor/widgets/clotya-client-carousel.php:121 
+#: ../elementor/widgets/clotya-counter-banner.php:95 
+#: ../elementor/widgets/clotya-home-slider.php:153 
+#: ../elementor/widgets/clotya-text-banner.php:80 
+#: ../elementor/widgets/clotya-text-grid.php:99
+msgid "Place URL here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:126 
+#: ../elementor/widgets/clotya-banner-box2.php:99 
+#: ../elementor/widgets/clotya-banner-box3.php:150 
+#: ../elementor/widgets/clotya-banner-box4.php:99 
+#: ../elementor/widgets/clotya-banner-column.php:90 
+#: ../elementor/widgets/clotya-category-banner.php:82 
+#: ../elementor/widgets/clotya-client-carousel.php:167 
+#: ../elementor/widgets/clotya-comment-text.php:67 
+#: ../elementor/widgets/clotya-contact-icon-box.php:91 
+#: ../elementor/widgets/clotya-counter-banner.php:117 
+#: ../elementor/widgets/clotya-counter-text.php:66 
+#: ../elementor/widgets/clotya-custom-title.php:68 
+#: ../elementor/widgets/clotya-home-slider.php:210 
+#: ../elementor/widgets/clotya-icon-box.php:91 
+#: ../elementor/widgets/clotya-image-box.php:90 
+#: ../elementor/widgets/clotya-product-categories.php:256 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:259 
+#: ../elementor/widgets/clotya-testimonial-box.php:86 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:166 
+#: ../elementor/widgets/clotya-text-banner.php:92 
+#: ../elementor/widgets/clotya-text-grid.php:111
+msgid " Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:157 
+#: ../elementor/widgets/clotya-banner-box2.php:130 
+#: ../elementor/widgets/clotya-banner-box3.php:157 
+#: ../elementor/widgets/clotya-banner-box4.php:130 
+#: ../elementor/widgets/clotya-banner-column.php:97 
+#: ../elementor/widgets/clotya-category-banner.php:89 
+#: ../elementor/widgets/clotya-client-carousel.php:174 
+#: ../elementor/widgets/clotya-home-slider.php:241 
+#: ../elementor/widgets/clotya-image-box.php:121 
+#: ../elementor/widgets/clotya-product-categories.php:377 
+#: ../elementor/widgets/clotya-text-grid.php:151
+msgid "IMAGE"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:173 
+#: ../elementor/widgets/clotya-banner-box2.php:146 
+#: ../elementor/widgets/clotya-banner-box3.php:173 
+#: ../elementor/widgets/clotya-banner-box4.php:146 
+#: ../elementor/widgets/clotya-banner-column.php:113 
+#: ../elementor/widgets/clotya-contact-icon-box.php:154 
+#: ../elementor/widgets/clotya-counter-banner.php:148 
+#: ../elementor/widgets/clotya-counter-text.php:82 
+#: ../elementor/widgets/clotya-custom-title.php:99 
+#: ../elementor/widgets/clotya-home-slider.php:257 
+#: ../elementor/widgets/clotya-icon-box.php:154 
+#: ../elementor/widgets/clotya-image-box.php:137 
+#: ../elementor/widgets/clotya-product-categories.php:263 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:323 
+#: ../elementor/widgets/clotya-text-banner.php:121 
+#: ../elementor/widgets/clotya-text-grid.php:167
+msgid "TITLE"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:181 
+#: ../elementor/widgets/clotya-banner-box2.php:154 
+#: ../elementor/widgets/clotya-banner-box3.php:181 
+#: ../elementor/widgets/clotya-banner-box4.php:154 
+#: ../elementor/widgets/clotya-banner-column.php:121 
+#: ../elementor/widgets/clotya-contact-icon-box.php:162 
+#: ../elementor/widgets/clotya-counter-banner.php:156 
+#: ../elementor/widgets/clotya-counter-text.php:90 
+#: ../elementor/widgets/clotya-custom-title.php:107 
+#: ../elementor/widgets/clotya-home-slider.php:265 
+#: ../elementor/widgets/clotya-icon-box.php:162 
+#: ../elementor/widgets/clotya-image-box.php:145 
+#: ../elementor/widgets/clotya-product-categories.php:271 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:331 
+#: ../elementor/widgets/clotya-text-banner.php:129 
+#: ../elementor/widgets/clotya-text-grid.php:175
+msgid "Title Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:221 
+#: ../elementor/widgets/clotya-banner-box2.php:194 
+#: ../elementor/widgets/clotya-banner-box3.php:221 
+#: ../elementor/widgets/clotya-banner-box4.php:194 
+#: ../elementor/widgets/clotya-counter-banner.php:205 
+#: ../elementor/widgets/clotya-counter-text.php:139 
+#: ../elementor/widgets/clotya-custom-title.php:156 
+#: ../elementor/widgets/clotya-home-slider.php:305 
+#: ../elementor/widgets/clotya-product-categories.php:320 
+#: ../elementor/widgets/clotya-text-banner.php:258 
+#: ../elementor/widgets/clotya-text-grid.php:224
+msgid "SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:229 
+#: ../elementor/widgets/clotya-banner-box2.php:202 
+#: ../elementor/widgets/clotya-banner-box3.php:229 
+#: ../elementor/widgets/clotya-banner-box4.php:202 
+#: ../elementor/widgets/clotya-counter-banner.php:213 
+#: ../elementor/widgets/clotya-counter-text.php:147 
+#: ../elementor/widgets/clotya-custom-title.php:164 
+#: ../elementor/widgets/clotya-home-slider.php:313 
+#: ../elementor/widgets/clotya-product-categories.php:328 
+#: ../elementor/widgets/clotya-text-banner.php:266 
+#: ../elementor/widgets/clotya-text-grid.php:232
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:269 
+#: ../elementor/widgets/clotya-banner-box2.php:242 
+#: ../elementor/widgets/clotya-banner-box3.php:269 
+#: ../elementor/widgets/clotya-banner-box4.php:242 
+#: ../elementor/widgets/clotya-category-banner.php:153 
+#: ../elementor/widgets/clotya-contact-icon-box.php:211 
+#: ../elementor/widgets/clotya-counter-banner.php:262 
+#: ../elementor/widgets/clotya-home-slider.php:353 
+#: ../elementor/widgets/clotya-icon-box.php:211 
+#: ../elementor/widgets/clotya-text-grid.php:281
+msgid "DESCRIPTION"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:277 
+#: ../elementor/widgets/clotya-banner-box2.php:250 
+#: ../elementor/widgets/clotya-banner-box3.php:277 
+#: ../elementor/widgets/clotya-banner-box4.php:250 
+#: ../elementor/widgets/clotya-category-banner.php:161 
+#: ../elementor/widgets/clotya-contact-icon-box.php:219 
+#: ../elementor/widgets/clotya-counter-banner.php:270 
+#: ../elementor/widgets/clotya-home-slider.php:361 
+#: ../elementor/widgets/clotya-icon-box.php:219 
+#: ../elementor/widgets/clotya-text-grid.php:289
+msgid "Description Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box.php:321 
+#: ../elementor/widgets/clotya-banner-box2.php:294 
+#: ../elementor/widgets/clotya-banner-box3.php:321 
+#: ../elementor/widgets/clotya-banner-box4.php:294 
+#: ../elementor/widgets/clotya-counter-banner.php:415 
+#: ../elementor/widgets/clotya-home-slider.php:405 
+#: ../elementor/widgets/clotya-text-grid.php:342
+msgid " Button Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box3.php:32 
+#: ../elementor/widgets/clotya-home-slider.php:159
+msgid "Text Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box3.php:37 
+#: ../elementor/widgets/clotya-home-slider.php:164
+msgid "Dark"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-box3.php:38 
+#: ../elementor/widgets/clotya-home-slider.php:165
+msgid "Light"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-column.php:43 
+#: ../elementor/widgets/clotya-home-slider.php:111
+msgid "Item Title"
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-column.php:47 
+#: ../elementor/widgets/clotya-home-slider.php:115
+msgid "Enter item title here."
+msgstr ""
+
+#: ../elementor/widgets/clotya-banner-column.php:62
+msgid "Banner Items"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:39
+msgid "Action Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:43
+msgid "Link"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:44
+msgid "Single Image"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:45
+msgid "Youtube"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:46
+msgid "Vimeo"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:47
+msgid "Google Map"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:48
+msgid "HTML5 Video"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:49 
+#: ../elementor/widgets/clotya-button.php:142
+msgid "Modal Content"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:55
+msgid "Link Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:59
+msgid "External"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:60
+msgid "Internal"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:96
+msgid "Lightbox Title"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:105
+msgid "Youtube Video URL"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:114
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:123
+msgid "Iframe Map URL"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:132
+msgid "HTML5 Video URL"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:136
+msgid "Add your local video here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:146
+msgid "Add html content here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:152
+msgid "Modal Content Width"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:191
+msgid "Use Icon"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:199 
+#: ../elementor/widgets/clotya-contact-icon-box.php:33 
+#: ../elementor/widgets/clotya-icon-box.php:33
+msgid "Use Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:209
+msgid "Button Icon"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:220 
+#: ../elementor/widgets/clotya-contact-icon-box.php:58 
+#: ../elementor/widgets/clotya-icon-box.php:58
+msgid "Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:265
+msgid "Tooltips"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:273
+msgid "Tooltip Position"
+msgstr ""
+
+#: ../elementor/widgets/clotya-button.php:287
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:36 
+#: ../elementor/widgets/clotya-product-categories.php:66 
+#: ../elementor/widgets/clotya-product-categories.php:71
+msgid "Include Category"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:66
+msgid "Child Item Count"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:105 
+#: ../elementor/widgets/clotya-product-categories.php:393 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:266
+msgid "CATEGORY"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:113 
+#: ../elementor/widgets/clotya-product-categories.php:401 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:274
+msgid "Category Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:201
+msgid "CHILD ITEM"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:209
+msgid "Child Item Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-category-banner.php:276
+#, php-format
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:32 
+#: ../elementor/widgets/clotya-latest-blog.php:33 
+#: ../elementor/widgets/clotya-product-carousel.php:62 
+#: ../elementor/widgets/clotya-product-categories.php:105 
+#: ../elementor/widgets/clotya-product-grid.php:48 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:66 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:32
+msgid "Column"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:36 
+#: ../elementor/widgets/clotya-client-carousel.php:54 
+#: ../elementor/widgets/clotya-latest-blog.php:37 
+#: ../elementor/widgets/clotya-product-carousel.php:66 
+#: ../elementor/widgets/clotya-product-carousel.php:82 
+#: ../elementor/widgets/clotya-product-categories.php:109 
+#: ../elementor/widgets/clotya-product-categories.php:128 
+#: ../elementor/widgets/clotya-product-categories.php:147 
+#: ../elementor/widgets/clotya-product-grid.php:52 
+#: ../elementor/widgets/clotya-product-grid.php:69 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:70 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:86 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:36 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:52
+msgid "Select Column"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:37 
+#: ../elementor/widgets/clotya-client-carousel.php:56 
+#: ../elementor/widgets/clotya-latest-blog.php:38 
+#: ../elementor/widgets/clotya-product-carousel.php:67 
+#: ../elementor/widgets/clotya-product-carousel.php:84 
+#: ../elementor/widgets/clotya-product-categories.php:110 
+#: ../elementor/widgets/clotya-product-categories.php:129 
+#: ../elementor/widgets/clotya-product-categories.php:148 
+#: ../elementor/widgets/clotya-product-grid.php:54 
+#: ../elementor/widgets/clotya-product-grid.php:71 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:71 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:88 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:37 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:54 
+#: ../inc/customizer.php:2382 ../inc/customizer.php:3282
+msgid "2 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:38 
+#: ../elementor/widgets/clotya-client-carousel.php:57 
+#: ../elementor/widgets/clotya-latest-blog.php:39 
+#: ../elementor/widgets/clotya-product-carousel.php:68 
+#: ../elementor/widgets/clotya-product-categories.php:111 
+#: ../elementor/widgets/clotya-product-categories.php:130 
+#: ../elementor/widgets/clotya-product-categories.php:149 
+#: ../elementor/widgets/clotya-product-grid.php:55 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:72 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:38 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:55 
+#: ../inc/customizer.php:2381 ../inc/customizer.php:3281
+msgid "3 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:39 
+#: ../elementor/widgets/clotya-latest-blog.php:40 
+#: ../elementor/widgets/clotya-product-carousel.php:69 
+#: ../elementor/widgets/clotya-product-categories.php:112 
+#: ../elementor/widgets/clotya-product-categories.php:131 
+#: ../elementor/widgets/clotya-product-categories.php:150 
+#: ../elementor/widgets/clotya-product-grid.php:56 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:73 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:39 
+#: ../inc/customizer.php:2380 ../inc/customizer.php:3280
+msgid "4 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:40 
+#: ../elementor/widgets/clotya-product-carousel.php:70 
+#: ../elementor/widgets/clotya-product-categories.php:113 
+#: ../elementor/widgets/clotya-product-categories.php:132 
+#: ../elementor/widgets/clotya-product-categories.php:151 
+#: ../elementor/widgets/clotya-product-grid.php:57 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:74 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:40 
+#: ../inc/customizer.php:2379 ../inc/customizer.php:3279
+msgid "5 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:41 
+#: ../elementor/widgets/clotya-product-carousel.php:71 
+#: ../elementor/widgets/clotya-product-categories.php:114 
+#: ../elementor/widgets/clotya-product-categories.php:133 
+#: ../elementor/widgets/clotya-product-categories.php:152 
+#: ../elementor/widgets/clotya-product-grid.php:58 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:75 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:41
+msgid "6 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:42 
+#: ../elementor/widgets/clotya-product-categories.php:115 
+#: ../elementor/widgets/clotya-product-categories.php:134 
+#: ../elementor/widgets/clotya-product-categories.php:153
+msgid "7 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:43 
+#: ../elementor/widgets/clotya-product-categories.php:116 
+#: ../elementor/widgets/clotya-product-categories.php:135
+msgid "8 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:50 
+#: ../elementor/widgets/clotya-product-carousel.php:78 
+#: ../elementor/widgets/clotya-product-categories.php:143 
+#: ../elementor/widgets/clotya-product-grid.php:65 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:82 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:48
+msgid "Mobile Column"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:55 
+#: ../elementor/widgets/clotya-product-carousel.php:83 
+#: ../elementor/widgets/clotya-product-grid.php:53 
+#: ../elementor/widgets/clotya-product-grid.php:70 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:87 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:53 
+#: ../inc/customizer.php:3283
+msgid "1 Column"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:64 
+#: ../elementor/widgets/clotya-home-slider.php:47 
+#: ../elementor/widgets/clotya-product-carousel.php:91 
+#: ../elementor/widgets/clotya-product-categories.php:160 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:95 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:62
+msgid "Auto Play"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:66 
+#: ../elementor/widgets/clotya-client-carousel.php:88 
+#: ../elementor/widgets/clotya-client-carousel.php:99 
+#: ../elementor/widgets/clotya-home-slider.php:49 
+#: ../elementor/widgets/clotya-home-slider.php:71 
+#: ../elementor/widgets/clotya-home-slider.php:82 
+#: ../elementor/widgets/clotya-product-carousel.php:93 
+#: ../elementor/widgets/clotya-product-carousel.php:115 
+#: ../elementor/widgets/clotya-product-carousel.php:126 
+#: ../elementor/widgets/clotya-product-carousel.php:208 
+#: ../elementor/widgets/clotya-product-carousel.php:219 
+#: ../elementor/widgets/clotya-product-carousel.php:230 
+#: ../elementor/widgets/clotya-product-carousel.php:241 
+#: ../elementor/widgets/clotya-product-categories.php:162 
+#: ../elementor/widgets/clotya-product-categories.php:184 
+#: ../elementor/widgets/clotya-product-categories.php:195 
+#: ../elementor/widgets/clotya-product-grid.php:141 
+#: ../elementor/widgets/clotya-product-grid.php:152 
+#: ../elementor/widgets/clotya-product-grid.php:163 
+#: ../elementor/widgets/clotya-product-grid.php:174 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:97 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:119 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:130 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:211 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:222 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:233 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:244 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:64 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:86 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:97
+msgid "True"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:67 
+#: ../elementor/widgets/clotya-client-carousel.php:89 
+#: ../elementor/widgets/clotya-client-carousel.php:100 
+#: ../elementor/widgets/clotya-home-slider.php:50 
+#: ../elementor/widgets/clotya-home-slider.php:72 
+#: ../elementor/widgets/clotya-home-slider.php:83 
+#: ../elementor/widgets/clotya-product-carousel.php:94 
+#: ../elementor/widgets/clotya-product-carousel.php:116 
+#: ../elementor/widgets/clotya-product-carousel.php:127 
+#: ../elementor/widgets/clotya-product-carousel.php:209 
+#: ../elementor/widgets/clotya-product-carousel.php:220 
+#: ../elementor/widgets/clotya-product-carousel.php:231 
+#: ../elementor/widgets/clotya-product-carousel.php:242 
+#: ../elementor/widgets/clotya-product-categories.php:163 
+#: ../elementor/widgets/clotya-product-categories.php:185 
+#: ../elementor/widgets/clotya-product-categories.php:196 
+#: ../elementor/widgets/clotya-product-grid.php:142 
+#: ../elementor/widgets/clotya-product-grid.php:153 
+#: ../elementor/widgets/clotya-product-grid.php:164 
+#: ../elementor/widgets/clotya-product-grid.php:175 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:98 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:120 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:131 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:212 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:223 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:234 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:245 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:65 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:87 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:98
+msgid "False"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:75 
+#: ../elementor/widgets/clotya-home-slider.php:58 
+#: ../elementor/widgets/clotya-product-carousel.php:102 
+#: ../elementor/widgets/clotya-product-categories.php:171 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:106 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:73
+msgid "Auto Speed"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:79 
+#: ../elementor/widgets/clotya-home-slider.php:62 
+#: ../elementor/widgets/clotya-product-carousel.php:106 
+#: ../elementor/widgets/clotya-product-categories.php:175 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:110 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:77
+msgid "Set auto speed."
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:86 
+#: ../elementor/widgets/clotya-home-slider.php:69 
+#: ../elementor/widgets/clotya-product-carousel.php:124 
+#: ../elementor/widgets/clotya-product-categories.php:182 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:128 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:84
+msgid "Dots"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:97 
+#: ../elementor/widgets/clotya-home-slider.php:80 
+#: ../elementor/widgets/clotya-product-carousel.php:113 
+#: ../elementor/widgets/clotya-product-categories.php:193 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:117 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:95
+msgid "Arrows"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:118
+msgid "Image Link"
+msgstr ""
+
+#: ../elementor/widgets/clotya-client-carousel.php:127
+msgid "Icon Items"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:42 
+#: ../elementor/widgets/clotya-testimonial-box.php:53 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:120
+msgid "Comment"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:52 
+#: ../elementor/widgets/clotya-testimonial-box.php:71 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:110
+msgid "Name"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:74
+msgid "RATING"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:82
+msgid "Rating Text Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:91
+msgid "Rating Text Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:100 
+#: ../elementor/widgets/clotya-testimonial-box.php:150 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:239
+msgid "COMMENT"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:108 
+#: ../elementor/widgets/clotya-testimonial-box.php:158 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:247
+msgid "Comment Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:117 
+#: ../elementor/widgets/clotya-testimonial-box.php:167 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:256
+msgid "Comment Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:157 
+#: ../elementor/widgets/clotya-testimonial-box.php:93 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:182
+msgid "NAME"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:165 
+#: ../elementor/widgets/clotya-testimonial-box.php:101 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:190
+msgid "Name Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-comment-text.php:174 
+#: ../elementor/widgets/clotya-testimonial-box.php:110 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:199
+msgid "Name Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:25
+msgid "Form Data"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:32
+msgid "Select Form"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:46
+msgid "Form Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:78 
+#: ../elementor/widgets/clotya-contact-form-7.php:171
+msgid "Form Max Width"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:91 
+#: ../elementor/widgets/clotya-contact-form-7.php:184
+msgid "Input Height"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:142
+msgid "Focus"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:165
+msgid "Form Button Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-form-7.php:244
+msgid "Please Select a Form"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:45 
+#: ../elementor/widgets/clotya-icon-box.php:45 ../inc/customizer.php:598 
+#: ../inc/customizer.php:2042
+msgid "Icon"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:71 
+#: ../elementor/widgets/clotya-icon-box.php:71
+msgid "Enter title here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:79 
+#: ../elementor/widgets/clotya-icon-box.php:79
+msgid "Enter desc here"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:98 
+#: ../elementor/widgets/clotya-icon-box.php:98
+msgid "ICON"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:105 
+#: ../elementor/widgets/clotya-icon-box.php:105
+msgid "Icon Size"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:115 
+#: ../elementor/widgets/clotya-icon-box.php:115
+msgid "Icon Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:124 
+#: ../elementor/widgets/clotya-icon-box.php:124
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:171 
+#: ../elementor/widgets/clotya-counter-banner.php:165 
+#: ../elementor/widgets/clotya-counter-text.php:99 
+#: ../elementor/widgets/clotya-custom-title.php:116 
+#: ../elementor/widgets/clotya-icon-box.php:171 
+#: ../elementor/widgets/clotya-image-box.php:154 
+#: ../elementor/widgets/clotya-product-categories.php:280 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:340 
+#: ../elementor/widgets/clotya-text-grid.php:184
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-contact-icon-box.php:228 
+#: ../elementor/widgets/clotya-counter-banner.php:279 
+#: ../elementor/widgets/clotya-icon-box.php:228 
+#: ../elementor/widgets/clotya-text-grid.php:298
+msgid "Description Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:43 
+#: ../elementor/widgets/clotya-counter-text.php:32
+msgid "Due Date"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:101
+msgid "Second Description"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:222 
+#: ../elementor/widgets/clotya-counter-text.php:156 
+#: ../elementor/widgets/clotya-custom-title.php:173 
+#: ../elementor/widgets/clotya-product-categories.php:337 
+#: ../elementor/widgets/clotya-text-grid.php:241
+msgid "Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:319 
+#: ../elementor/widgets/clotya-counter-text.php:196
+msgid "DATE"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:327 
+#: ../elementor/widgets/clotya-counter-text.php:204
+msgid "Dua Date Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:336
+msgid "Dua Date Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:345
+msgid "SECOND DESCRIPTION"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:353
+msgid "Second Description Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:362
+msgid "Second Description Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:371
+msgid "Second Description Background Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:563 
+#: ../elementor/widgets/clotya-counter-text.php:235 
+#: ../elementor/widgets/clotya-offered-products.php:219 
+#: ../woocommerce-filter/woocommerce-filter.php:466
+msgid "Expired"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:566 
+#: ../elementor/widgets/clotya-counter-text.php:238 
+#: ../woocommerce-filter/woocommerce-filter.php:469
+msgid "d"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:571 
+#: ../elementor/widgets/clotya-counter-text.php:243 
+#: ../woocommerce-filter/woocommerce-filter.php:474
+msgid "h"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:576 
+#: ../elementor/widgets/clotya-counter-text.php:248 
+#: ../woocommerce-filter/woocommerce-filter.php:479
+msgid "m"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-banner.php:581 
+#: ../elementor/widgets/clotya-counter-text.php:253 
+#: ../woocommerce-filter/woocommerce-filter.php:484
+msgid "s"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-text.php:73 
+#: ../elementor/widgets/clotya-testimonial-carousel.php:173 
+#: ../elementor/widgets/clotya-text-banner.php:99 
+#: ../elementor/widgets/clotya-text-grid.php:118
+msgid "Background Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-counter-text.php:213
+msgid "Dua Date Background Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-custom-title.php:32
+msgid "Title Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-custom-title.php:48
+msgid "Set a title."
+msgstr ""
+
+#: ../elementor/widgets/clotya-custom-title.php:57
+msgid "Set a subtitle."
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:32 
+#: ../elementor/widgets/clotya-text-grid.php:32
+msgid "Slider Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:91 
+#: ../elementor/widgets/clotya-product-carousel.php:135 
+#: ../elementor/widgets/clotya-product-categories.php:204 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:139
+msgid "Slide Speed"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:95 
+#: ../elementor/widgets/clotya-product-carousel.php:139 
+#: ../elementor/widgets/clotya-product-categories.php:208 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:143
+msgid "Set slide speed."
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:121
+msgid "Item Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:125
+msgid "Enter item subtitle here."
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:131
+msgid "Item Description"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:135
+msgid "Enter item desc here."
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:172
+msgid "Slide Items"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:484
+msgid " Nav Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:528
+msgid " Size"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:548 
+#: ../elementor/widgets/clotya-home-slider.php:580
+msgid "Horizontal Position ( % )"
+msgstr ""
+
+#: ../elementor/widgets/clotya-home-slider.php:560 
+#: ../elementor/widgets/clotya-home-slider.php:592
+msgid "Vertical Position ( % )"
+msgstr ""
+
+#: ../elementor/widgets/clotya-image-box.php:53
+msgid "List Text"
+msgstr ""
+
+#: ../elementor/widgets/clotya-image-box.php:63
+msgid "List Items"
+msgstr ""
+
+#: ../elementor/widgets/clotya-image-box.php:194
+msgid "LIST TEXT"
+msgstr ""
+
+#: ../elementor/widgets/clotya-image-box.php:202
+msgid "List Text Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-image-box.php:211
+msgid "List Text Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:57
+msgid "Excerpt Size"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:67
+msgid "Category"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:78
+msgid "Specific Post(s)"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:89 
+#: ../elementor/widgets/clotya-offered-products.php:67 
+#: ../elementor/widgets/clotya-product-carousel.php:179 
+#: ../elementor/widgets/clotya-product-categories.php:224 
+#: ../elementor/widgets/clotya-product-grid.php:112 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:182
+msgid "Select Order"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:92 
+#: ../elementor/widgets/clotya-offered-products.php:70 
+#: ../elementor/widgets/clotya-product-carousel.php:182 
+#: ../elementor/widgets/clotya-product-categories.php:227 
+#: ../elementor/widgets/clotya-product-grid.php:115 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:185
+msgid "Ascending"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:93 
+#: ../elementor/widgets/clotya-offered-products.php:71 
+#: ../elementor/widgets/clotya-product-carousel.php:183 
+#: ../elementor/widgets/clotya-product-categories.php:228 
+#: ../elementor/widgets/clotya-product-grid.php:116 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:186
+msgid "Descending"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:104 
+#: ../elementor/widgets/clotya-offered-products.php:82 
+#: ../elementor/widgets/clotya-product-carousel.php:194 
+#: ../elementor/widgets/clotya-product-categories.php:239 
+#: ../elementor/widgets/clotya-product-grid.php:127 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:197
+msgid "Post ID"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:105 
+#: ../elementor/widgets/clotya-offered-products.php:83 
+#: ../elementor/widgets/clotya-product-carousel.php:195 
+#: ../elementor/widgets/clotya-product-categories.php:240 
+#: ../elementor/widgets/clotya-product-grid.php:128 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:198
+msgid "Menu Order"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:106 
+#: ../elementor/widgets/clotya-offered-products.php:84 
+#: ../elementor/widgets/clotya-product-carousel.php:196 
+#: ../elementor/widgets/clotya-product-categories.php:241 
+#: ../elementor/widgets/clotya-product-grid.php:129 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:199
+msgid "Random"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:107 
+#: ../elementor/widgets/clotya-offered-products.php:85 
+#: ../elementor/widgets/clotya-product-carousel.php:197 
+#: ../elementor/widgets/clotya-product-categories.php:242 
+#: ../elementor/widgets/clotya-product-grid.php:130 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:200
+msgid "Date"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:117
+msgid "Disable Pagination"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:128
+msgid "Image Width"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:132
+msgid "Set the product image width."
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:138
+msgid "Image Height"
+msgstr ""
+
+#: ../elementor/widgets/clotya-latest-blog.php:142
+msgid "Set the product image height."
+msgstr ""
+
+#: ../elementor/widgets/clotya-offered-products.php:44 
+#: ../elementor/widgets/clotya-product-carousel.php:156 
+#: ../elementor/widgets/clotya-product-grid.php:89 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:159
+msgid "Filter Category"
+msgstr ""
+
+#: ../elementor/widgets/clotya-offered-products.php:56 
+#: ../elementor/widgets/clotya-product-carousel.php:168 
+#: ../elementor/widgets/clotya-product-grid.php:101 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:171
+msgid "Include Post"
+msgstr ""
+
+#: ../elementor/widgets/clotya-offered-products.php:206
+#, php-format
+msgid "%d review"
+msgid_plural "%d reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../elementor/widgets/clotya-offered-products.php:218 
+#: ../woocommerce-filter/woocommerce-filter.php:465
+msgid "Offer end in:"
+msgstr ""
+
+#: ../elementor/widgets/clotya-offered-products.php:243
+msgid "Available: "
+msgstr ""
+
+#: ../elementor/widgets/clotya-offered-products.php:243 
+#: ../woocommerce-filter/woocommerce-filter.php:489
+msgid "Sold:"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:33 
+#: ../elementor/widgets/clotya-product-grid.php:33
+msgid "Product Type"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:48 
+#: ../elementor/widgets/clotya-product-categories.php:33 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:53
+msgid "Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:52 
+#: ../elementor/widgets/clotya-product-categories.php:37 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:57
+msgid "Select Style"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:53 
+#: ../elementor/widgets/clotya-product-categories.php:38 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:37 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:58 
+#: ../woocommerce-filter/product-badge/product-badge.php:48 
+#: ../woocommerce-filter/product-badge/product-badge.php:80
+msgid "Style 1"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:54 
+#: ../elementor/widgets/clotya-product-categories.php:39 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:38 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:59 
+#: ../woocommerce-filter/product-badge/product-badge.php:49 
+#: ../woocommerce-filter/product-badge/product-badge.php:81
+msgid "Style 2"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:206 
+#: ../elementor/widgets/clotya-product-grid.php:139 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:209
+msgid "On Sale Products?"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:217 
+#: ../elementor/widgets/clotya-product-grid.php:150 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:220
+msgid "Hide Out of Stock?"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:228 
+#: ../elementor/widgets/clotya-product-grid.php:161 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:231
+msgid "Featured Products?"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-carousel.php:239 
+#: ../elementor/widgets/clotya-product-grid.php:172 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:242
+msgid "Best Selling Products?"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:50
+msgid "Add a title."
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:60
+msgid "Add a subtitle."
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:84 
+#: ../elementor/widgets/clotya-product-categories.php:89
+msgid "Exclude Category"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:117 
+#: ../elementor/widgets/clotya-product-categories.php:136
+msgid "9 Columns"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:124
+msgid "Tablet Column"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:214
+msgid "Slide Gutter"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:218
+msgid "Set slide gutter."
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-categories.php:410 
+#: ../elementor/widgets/clotya-product-tab-carousel.php:283
+msgid "Category Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-product-tab-carousel.php:25
+msgid "Products"
+msgstr ""
+
+#: ../elementor/widgets/clotya-testimonial-box.php:35 
+#: ../inc/customizer.php:117 ../inc/customizer.php:197
+msgid "Logo"
+msgstr ""
+
+#: ../elementor/widgets/clotya-testimonial-box.php:63
+msgid "Signature"
+msgstr ""
+
+#: ../elementor/widgets/clotya-testimonial-carousel.php:130
+msgid "Testimonial Items"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:55
+msgid "Coupon Code"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:110
+msgid "Background Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:150
+msgid "Second Title Color"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:160
+msgid "Second Title Size"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:193
+msgid "COUPON"
+msgstr ""
+
+#: ../elementor/widgets/clotya-text-banner.php:231
+msgid "Coupon Color"
+msgstr ""
+
+#: ../inc/breadcrumb.php:29
+msgid "Our Blog"
+msgstr ""
+
+#: ../inc/breadcrumb.php:30 ../inc/breadcrumb.php:32 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:72
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumb.php:76
+msgid "Category : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:78
+msgid "Tag : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:91
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumb.php:93 ../inc/customizer.php:2034 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:89
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer.php:29 ../inc/customizer.php:1743
+msgid "Shop Settings"
+msgstr ""
+
+#: ../inc/customizer.php:30
+msgid "You can customize the shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:34
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/customizer.php:35
+msgid "You can customize the blog settings."
+msgstr ""
+
+#: ../inc/customizer.php:39 ../inc/customizer.php:110
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid "You can customize the header settings."
+msgstr ""
+
+#: ../inc/customizer.php:44 ../inc/customizer.php:2747
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/customizer.php:45 ../inc/customizer.php:2748
+msgid "You can customize the main color."
+msgstr ""
+
+#: ../inc/customizer.php:49
+msgid "Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:50
+msgid "You can customize the elementor templates."
+msgstr ""
+
+#: ../inc/customizer.php:54
+msgid "Map Settings"
+msgstr ""
+
+#: ../inc/customizer.php:55
+msgid "You can customize the map settings."
+msgstr ""
+
+#: ../inc/customizer.php:59 ../inc/customizer.php:2992
+msgid "Footer Settings"
+msgstr ""
+
+#: ../inc/customizer.php:60 ../inc/customizer.php:3005 
+#: ../inc/customizer.php:3010
+msgid "You can customize the footer settings."
+msgstr ""
+
+#: ../inc/customizer.php:64
+msgid "GDPR Settings"
+msgstr ""
+
+#: ../inc/customizer.php:65
+msgid "You can customize the GDPR settings."
+msgstr ""
+
+#: ../inc/customizer.php:69
+msgid "Newsletter Settings"
+msgstr ""
+
+#: ../inc/customizer.php:70
+msgid "You can customize the Newsletter Popup settings."
+msgstr ""
+
+#: ../inc/customizer.php:111
+msgid "You can customize the header from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:118
+msgid "You can customize the logo which is on header.."
+msgstr ""
+
+#: ../inc/customizer.php:122
+msgid "Header General"
+msgstr ""
+
+#: ../inc/customizer.php:123
+msgid "You can customize the header."
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Header Notification"
+msgstr ""
+
+#: ../inc/customizer.php:128
+msgid "You can customize the header notification."
+msgstr ""
+
+#: ../inc/customizer.php:132 ../inc/customizer.php:535
+msgid "Header Social"
+msgstr ""
+
+#: ../inc/customizer.php:133
+msgid "You can customize the header social."
+msgstr ""
+
+#: ../inc/customizer.php:137
+msgid "Preloader"
+msgstr ""
+
+#: ../inc/customizer.php:138
+msgid "You can customize the loader."
+msgstr ""
+
+#: ../inc/customizer.php:142
+msgid "Header 1 Style"
+msgstr ""
+
+#: ../inc/customizer.php:143 ../inc/customizer.php:148 
+#: ../inc/customizer.php:153 ../inc/customizer.php:158 
+#: ../inc/customizer.php:163 ../inc/customizer.php:168 
+#: ../inc/customizer.php:173
+msgid "You can customize the style."
+msgstr ""
+
+#: ../inc/customizer.php:147
+msgid "Header 2 Style"
+msgstr ""
+
+#: ../inc/customizer.php:152
+msgid "Header 3 Style"
+msgstr ""
+
+#: ../inc/customizer.php:157
+msgid "Header 4 Style"
+msgstr ""
+
+#: ../inc/customizer.php:162
+msgid "Header 5 Style"
+msgstr ""
+
+#: ../inc/customizer.php:167
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: ../inc/customizer.php:172
+msgid "Mobile Bottom Menu Style"
+msgstr ""
+
+#: ../inc/customizer.php:198
+msgid "You can upload a logo."
+msgstr ""
+
+#: ../inc/customizer.php:211
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../inc/customizer.php:212
+msgid "You can upload a logo for the mobile."
+msgstr ""
+
+#: ../inc/customizer.php:225
+msgid "Set Logo Text"
+msgstr ""
+
+#: ../inc/customizer.php:226
+msgid "You can set logo as text."
+msgstr ""
+
+#: ../inc/customizer.php:237
+msgid "Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:238
+msgid "You can set size of the logo."
+msgstr ""
+
+#: ../inc/customizer.php:261
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:262
+msgid "You can set size of the mobil logo."
+msgstr ""
+
+#: ../inc/customizer.php:285
+msgid "Sidebar Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:286
+msgid "You can set size of the sidebar logo."
+msgstr ""
+
+#: ../inc/customizer.php:327
+msgid "Sticky Header"
+msgstr ""
+
+#: ../inc/customizer.php:328
+msgid "You can choose status of the header."
+msgstr ""
+
+#: ../inc/customizer.php:339
+msgid "Mobile Sticky Header"
+msgstr ""
+
+#: ../inc/customizer.php:340
+msgid "You can choose status of the header on the mobile."
+msgstr ""
+
+#: ../inc/customizer.php:351
+msgid "Toggle Menu Button"
+msgstr ""
+
+#: ../inc/customizer.php:352
+msgid "You can choose status of the toggle menu button."
+msgstr ""
+
+#: ../inc/customizer.php:363
+msgid "Header Search"
+msgstr ""
+
+#: ../inc/customizer.php:364
+msgid "You can choose status of the search on the header."
+msgstr ""
+
+#: ../inc/customizer.php:375
+msgid "Ajax Search Form"
+msgstr ""
+
+#: ../inc/customizer.php:376
+msgid "Enable ajax search form for the header search."
+msgstr ""
+
+#: ../inc/customizer.php:394
+msgid "Account Icon / Login"
+msgstr ""
+
+#: ../inc/customizer.php:395
+msgid "Disable or Enable User Login/Signup on the header."
+msgstr ""
+
+#: ../inc/customizer.php:406 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:97
+msgid "Wishlist"
+msgstr ""
+
+#: ../inc/customizer.php:407
+msgid "Disable or Enable wishlist on the header."
+msgstr ""
+
+#: ../inc/customizer.php:418
+msgid "Header Cart"
+msgstr ""
+
+#: ../inc/customizer.php:419
+msgid "You can choose status of the mini cart on the header."
+msgstr ""
+
+#: ../inc/customizer.php:430
+msgid "Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:431
+msgid "Disable or Enable Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:442
+msgid "Disable Collapse on Frontpage"
+msgstr ""
+
+#: ../inc/customizer.php:443
+msgid "Disable or Enable Sidebar Collapse on Home Page."
+msgstr ""
+
+#: ../inc/customizer.php:461
+msgid "Top Right Menu"
+msgstr ""
+
+#: ../inc/customizer.php:462
+msgid "Disable or Enable the top right menu."
+msgstr ""
+
+#: ../inc/customizer.php:473
+msgid "Top Notification 1"
+msgstr ""
+
+#: ../inc/customizer.php:474
+msgid "You can choose status of the notification 1 on the header."
+msgstr ""
+
+#: ../inc/customizer.php:485
+msgid "Top Notification 1 Content"
+msgstr ""
+
+#: ../inc/customizer.php:486
+msgid "You can add a text for the notification 1 content."
+msgstr ""
+
+#: ../inc/customizer.php:504
+msgid "Top Notification 2"
+msgstr ""
+
+#: ../inc/customizer.php:505
+msgid "You can choose status of the notification 2 on the header."
+msgstr ""
+
+#: ../inc/customizer.php:516
+msgid "Top Notification 2 Content"
+msgstr ""
+
+#: ../inc/customizer.php:517
+msgid "You can add a text for the notification 2 content."
+msgstr ""
+
+#: ../inc/customizer.php:536
+msgid "You can choose status of the social buttons on the header."
+msgstr ""
+
+#: ../inc/customizer.php:547
+msgid "Header Social Title"
+msgstr ""
+
+#: ../inc/customizer.php:548
+msgid "You can add a text for the social title."
+msgstr ""
+
+#: ../inc/customizer.php:566
+msgid "Header Social Content"
+msgstr ""
+
+#: ../inc/customizer.php:567
+msgid "You can add a text for the social dropdown."
+msgstr ""
+
+#: ../inc/customizer.php:585
+msgid "Social List"
+msgstr ""
+
+#: ../inc/customizer.php:586
+msgid "You can set social icons."
+msgstr ""
+
+#: ../inc/customizer.php:599
+msgid "You can set an icon. for example; \"facebook\""
+msgstr ""
+
+#: ../inc/customizer.php:604 ../inc/customizer.php:2052 
+#: ../inc/customizer.php:3140
+msgid "URL"
+msgstr ""
+
+#: ../inc/customizer.php:605 ../inc/customizer.php:2053
+msgid "You can set url for the item."
+msgstr ""
+
+#: ../inc/customizer.php:610
+msgid "Text"
+msgstr ""
+
+#: ../inc/customizer.php:611 ../inc/customizer.php:2408 
+#: ../inc/customizer.php:2467
+msgid "You can set a title."
+msgstr ""
+
+#: ../inc/customizer.php:623
+msgid "Enable Loader"
+msgstr ""
+
+#: ../inc/customizer.php:624
+msgid "Disable or Enable the loader."
+msgstr ""
+
+#: ../inc/customizer.php:638 ../inc/customizer.php:859 
+#: ../inc/customizer.php:1104 ../inc/customizer.php:1276 
+#: ../inc/customizer.php:1486
+msgid "Header Top 1 Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:639 ../inc/customizer.php:663 
+#: ../inc/customizer.php:699 ../inc/customizer.php:860 
+#: ../inc/customizer.php:884 ../inc/customizer.php:920 
+#: ../inc/customizer.php:1105 ../inc/customizer.php:1129 
+#: ../inc/customizer.php:1277 ../inc/customizer.php:1301 
+#: ../inc/customizer.php:1337 ../inc/customizer.php:1487 
+#: ../inc/customizer.php:1511 ../inc/customizer.php:1647
+msgid "You can set a color for  background."
+msgstr ""
+
+#: ../inc/customizer.php:650 ../inc/customizer.php:871 
+#: ../inc/customizer.php:1116 ../inc/customizer.php:1288 
+#: ../inc/customizer.php:1498
+msgid "Header Top 1 Notification Color"
+msgstr ""
+
+#: ../inc/customizer.php:651 ../inc/customizer.php:675 
+#: ../inc/customizer.php:723 ../inc/customizer.php:735 
+#: ../inc/customizer.php:747 ../inc/customizer.php:759 
+#: ../inc/customizer.php:771 ../inc/customizer.php:872 
+#: ../inc/customizer.php:896 ../inc/customizer.php:944 
+#: ../inc/customizer.php:956 ../inc/customizer.php:968 
+#: ../inc/customizer.php:980 ../inc/customizer.php:992 
+#: ../inc/customizer.php:1004 ../inc/customizer.php:1016 
+#: ../inc/customizer.php:1117 ../inc/customizer.php:1153 
+#: ../inc/customizer.php:1165 ../inc/customizer.php:1189 
+#: ../inc/customizer.php:1201 ../inc/customizer.php:1213 
+#: ../inc/customizer.php:1289 ../inc/customizer.php:1313 
+#: ../inc/customizer.php:1349 ../inc/customizer.php:1361 
+#: ../inc/customizer.php:1373 ../inc/customizer.php:1385 
+#: ../inc/customizer.php:1397 ../inc/customizer.php:1499 
+#: ../inc/customizer.php:1535 ../inc/customizer.php:1547 
+#: ../inc/customizer.php:1559 ../inc/customizer.php:1571 
+#: ../inc/customizer.php:1583 ../inc/customizer.php:1671 
+#: ../inc/customizer.php:1683 ../inc/customizer.php:1695 
+#: ../inc/customizer.php:1709
+msgid "You can set a color for  color."
+msgstr ""
+
+#: ../inc/customizer.php:662 ../inc/customizer.php:883 
+#: ../inc/customizer.php:1300
+msgid "Header Top 2 Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:674 ../inc/customizer.php:895 
+#: ../inc/customizer.php:1312
+msgid "Header Top 2 Notification Color"
+msgstr ""
+
+#: ../inc/customizer.php:686 ../inc/customizer.php:907 
+#: ../inc/customizer.php:1324
+msgid "Header Top 2 Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:687 ../inc/customizer.php:711 
+#: ../inc/customizer.php:908 ../inc/customizer.php:932 
+#: ../inc/customizer.php:1141 ../inc/customizer.php:1325 
+#: ../inc/customizer.php:1523 ../inc/customizer.php:1659
+msgid "You can set a color for  border."
+msgstr ""
+
+#: ../inc/customizer.php:698 ../inc/customizer.php:919 
+#: ../inc/customizer.php:1128 ../inc/customizer.php:1336 
+#: ../inc/customizer.php:1510
+msgid "Header Main Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:710 ../inc/customizer.php:931 
+#: ../inc/customizer.php:1140 ../inc/customizer.php:1522
+msgid "Header Main Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:722 ../inc/customizer.php:943 
+#: ../inc/customizer.php:1152 ../inc/customizer.php:1348 
+#: ../inc/customizer.php:1534
+msgid "Header Main Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:734 ../inc/customizer.php:955 
+#: ../inc/customizer.php:1164 ../inc/customizer.php:1360 
+#: ../inc/customizer.php:1546
+msgid "Header Main Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:746 ../inc/customizer.php:991 
+#: ../inc/customizer.php:1372 ../inc/customizer.php:1558
+msgid "Header Main Submenu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:758 ../inc/customizer.php:1003 
+#: ../inc/customizer.php:1200 ../inc/customizer.php:1384 
+#: ../inc/customizer.php:1570
+msgid "Header Main Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:770 ../inc/customizer.php:1015 
+#: ../inc/customizer.php:1212 ../inc/customizer.php:1396 
+#: ../inc/customizer.php:1582
+msgid "Header Main Icon Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:781 ../inc/customizer.php:1026 
+#: ../inc/customizer.php:1223 ../inc/customizer.php:1407 
+#: ../inc/customizer.php:1593
+msgid "Header Top 1 Notification Typography"
+msgstr ""
+
+#: ../inc/customizer.php:806 ../inc/customizer.php:1051 
+#: ../inc/customizer.php:1432
+msgid "Header Top 2 Notification Typography"
+msgstr ""
+
+#: ../inc/customizer.php:831 ../inc/customizer.php:1076 
+#: ../inc/customizer.php:1248 ../inc/customizer.php:1457 
+#: ../inc/customizer.php:1618
+msgid "Header Main Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:967
+msgid "Header Category Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:979
+msgid "Header Category Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1176
+msgid "Header Main Submenu Title Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1177 ../inc/customizer.php:1721 
+#: ../inc/customizer.php:1733 ../inc/customizer.php:2493 
+#: ../inc/customizer.php:2505 ../inc/customizer.php:3178 
+#: ../inc/customizer.php:3190 ../inc/customizer.php:3202 
+#: ../inc/customizer.php:3214 ../inc/customizer.php:3226 
+#: ../inc/customizer.php:3322 ../inc/customizer.php:3334 
+#: ../inc/customizer.php:3370 ../inc/customizer.php:3382
+msgid "You can set a color for color."
+msgstr ""
+
+#: ../inc/customizer.php:1188
+msgid "Header Main Submenu Subtitle Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1646
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1658
+msgid "Mobile Menu Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1670
+msgid "Mobile Menu Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:1682
+msgid "Mobile Menu Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:1694
+msgid "Mobile Menu Copyright Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1708
+msgid "Mobile Bottom Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1720
+msgid "Mobile Bottom Menu Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:1732
+msgid "Mobile Bottom Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1744
+msgid "You can customize the shop from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:1750
+msgid "General"
+msgstr ""
+
+#: ../inc/customizer.php:1751
+msgid "You can customize shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:1755
+msgid "Product Detail"
+msgstr ""
+
+#: ../inc/customizer.php:1756
+msgid "You can customize the product single settings."
+msgstr ""
+
+#: ../inc/customizer.php:1760
+msgid "Banner"
+msgstr ""
+
+#: ../inc/customizer.php:1761
+msgid "You can customize the banner."
+msgstr ""
+
+#: ../inc/customizer.php:1765
+msgid "My Account"
+msgstr ""
+
+#: ../inc/customizer.php:1766
+msgid "You can customize the my account page."
+msgstr ""
+
+#: ../inc/customizer.php:1770
+msgid "Free Shipping Bar "
+msgstr ""
+
+#: ../inc/customizer.php:1771
+msgid "You can customize the free shipping bar settings."
+msgstr ""
+
+#: ../inc/customizer.php:1795 ../inc/customizer.php:2515 
+#: ../inc/customizer.php:2729
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer.php:1796
+msgid "You can choose a layout for the shop."
+msgstr ""
+
+#: ../inc/customizer.php:1800 ../inc/customizer.php:2734
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:1801 ../inc/customizer.php:2197 
+#: ../inc/customizer.php:2735
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/customizer.php:1802 ../inc/customizer.php:2736
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:1812
+msgid "Shop Page Width"
+msgstr ""
+
+#: ../inc/customizer.php:1813
+msgid "You can choose a layout for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:1817
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/customizer.php:1818
+msgid "Wide"
+msgstr ""
+
+#: ../inc/customizer.php:1828
+msgid "Shop Product Box Type"
+msgstr ""
+
+#: ../inc/customizer.php:1846
+msgid "Pagination Type"
+msgstr ""
+
+#: ../inc/customizer.php:1851 ../inc/customizer.php:2033 
+#: ../inc/customizer.php:2520
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:1852 ../woocommerce-filter/load-more/load-more.php:11
+msgid "Load More"
+msgstr ""
+
+#: ../inc/customizer.php:1853
+msgid "Infinite"
+msgstr ""
+
+#: ../inc/customizer.php:1863
+msgid "Product Gallery"
+msgstr ""
+
+#: ../inc/customizer.php:1864
+msgid "Disable or Enable gallery on the product box."
+msgstr ""
+
+#: ../inc/customizer.php:1875
+msgid "Ajax on Shop Page"
+msgstr ""
+
+#: ../inc/customizer.php:1876
+msgid "Disable or Enable Ajax for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:1887
+msgid "Grid List View"
+msgstr ""
+
+#: ../inc/customizer.php:1888
+msgid "Disable or Enable grid list view on shop page."
+msgstr ""
+
+#: ../inc/customizer.php:1899
+msgid "Perpage View"
+msgstr ""
+
+#: ../inc/customizer.php:1900
+msgid "Disable or Enable perpage view on shop page."
+msgstr ""
+
+#: ../inc/customizer.php:1911
+msgid "Attribute Swatches"
+msgstr ""
+
+#: ../inc/customizer.php:1912
+msgid "Disable or Enable the attribute types (Color - Button - Images)."
+msgstr ""
+
+#: ../inc/customizer.php:1923
+msgid "Quick View Button"
+msgstr ""
+
+#: ../inc/customizer.php:1924
+msgid "You can choose status of the quick view button."
+msgstr ""
+
+#: ../inc/customizer.php:1935
+msgid "Custom Wishlist Button"
+msgstr ""
+
+#: ../inc/customizer.php:1936
+msgid "You can choose status of the wishlist button."
+msgstr ""
+
+#: ../inc/customizer.php:1947
+msgid "Compare"
+msgstr ""
+
+#: ../inc/customizer.php:1948
+msgid "You can choose status of the compare button."
+msgstr ""
+
+#: ../inc/customizer.php:1959
+msgid "Added to Cart Ajax Notice"
+msgstr ""
+
+#: ../inc/customizer.php:1960
+msgid "You can choose status of the ajax notice feature."
+msgstr ""
+
+#: ../inc/customizer.php:1971
+msgid "Product Badge Tab"
+msgstr ""
+
+#: ../inc/customizer.php:1972
+msgid "You can choose status of the product badge tab."
+msgstr ""
+
+#: ../inc/customizer.php:1983
+msgid "Mobile Bottom Menu"
+msgstr ""
+
+#: ../inc/customizer.php:1984
+msgid "Disable or Enable the bottom menu on mobile."
+msgstr ""
+
+#: ../inc/customizer.php:1995 ../inc/customizer.php:2016
+msgid "Mobile Bottom Menu Edit"
+msgstr ""
+
+#: ../inc/customizer.php:1996 ../inc/customizer.php:2017
+msgid "Edit the mobile bottom menu."
+msgstr ""
+
+#: ../inc/customizer.php:2030
+msgid "You can select a type"
+msgstr ""
+
+#: ../inc/customizer.php:2035 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:16 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:81
+msgid "Filter"
+msgstr ""
+
+#: ../inc/customizer.php:2036
+msgid "category"
+msgstr ""
+
+#: ../inc/customizer.php:2043
+msgid "You can set an icon. for example; \"store\""
+msgstr ""
+
+#: ../inc/customizer.php:2047
+msgid " Text"
+msgstr ""
+
+#: ../inc/customizer.php:2048
+msgid "You can enter a text."
+msgstr ""
+
+#: ../inc/customizer.php:2065
+msgid "Stock Quantity"
+msgstr ""
+
+#: ../inc/customizer.php:2066
+msgid "Show stock quantity on the label."
+msgstr ""
+
+#: ../inc/customizer.php:2077
+msgid "Min/Max Quantity"
+msgstr ""
+
+#: ../inc/customizer.php:2078
+msgid "Enable the additional quantity setting fields in product detail page."
+msgstr ""
+
+#: ../inc/customizer.php:2089
+msgid "Category Desc After Content"
+msgstr ""
+
+#: ../inc/customizer.php:2090
+msgid "Add the category description after the products."
+msgstr ""
+
+#: ../inc/customizer.php:2101
+msgid "Catalog Mode"
+msgstr ""
+
+#: ../inc/customizer.php:2102
+msgid "Disable Add to Cart button on the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2113 
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:82
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: ../inc/customizer.php:2114
+msgid "Disable or Enable Recently Viewed Products."
+msgstr ""
+
+#: ../inc/customizer.php:2125
+msgid "Recently Viewed Products Column"
+msgstr ""
+
+#: ../inc/customizer.php:2130
+msgid "6"
+msgstr ""
+
+#: ../inc/customizer.php:2131
+msgid "5"
+msgstr ""
+
+#: ../inc/customizer.php:2132
+msgid "4"
+msgstr ""
+
+#: ../inc/customizer.php:2133
+msgid "3"
+msgstr ""
+
+#: ../inc/customizer.php:2134
+msgid "2"
+msgstr ""
+
+#: ../inc/customizer.php:2151
+msgid "Min Order Amount"
+msgstr ""
+
+#: ../inc/customizer.php:2152
+msgid "Enable Min Order Amount."
+msgstr ""
+
+#: ../inc/customizer.php:2163
+msgid "Min Order Value"
+msgstr ""
+
+#: ../inc/customizer.php:2164
+msgid "Set amount to specify a minimum order value."
+msgstr ""
+
+#: ../inc/customizer.php:2182
+msgid "Product Image Size"
+msgstr ""
+
+#: ../inc/customizer.php:2183
+msgid "You can set size of the product image for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2198
+msgid "Stretch the single product page content."
+msgstr ""
+
+#: ../inc/customizer.php:2209
+msgid "Image Zoom"
+msgstr ""
+
+#: ../inc/customizer.php:2210
+msgid "You can choose status of the zoom feature."
+msgstr ""
+
+#: ../inc/customizer.php:2221
+msgid "Product360 View"
+msgstr ""
+
+#: ../inc/customizer.php:2222
+msgid "Disable or Enable Product 360 View."
+msgstr ""
+
+#: ../inc/customizer.php:2233
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2234
+msgid "Disable or Enable ajax add to cart button."
+msgstr ""
+
+#: ../inc/customizer.php:2245
+msgid "Mobile Sticky Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2246
+msgid "Disable or Enable sticky cart button on mobile."
+msgstr ""
+
+#: ../inc/customizer.php:2257
+msgid "Buy Now Button"
+msgstr ""
+
+#: ../inc/customizer.php:2258
+msgid "Disable or Enable Buy Now button."
+msgstr ""
+
+#: ../inc/customizer.php:2269
+msgid "Related Products with Tags"
+msgstr ""
+
+#: ../inc/customizer.php:2270
+msgid "Display the related products by tags."
+msgstr ""
+
+#: ../inc/customizer.php:2281
+msgid "Time Countdown"
+msgstr ""
+
+#: ../inc/customizer.php:2282
+msgid "Display the sale time countdown."
+msgstr ""
+
+#: ../inc/customizer.php:2293 ../woocommerce-filter/woocommerce-filter.php:380
+msgid "Order on WhatsApp"
+msgstr ""
+
+#: ../inc/customizer.php:2294
+msgid "Enable the button on the product detail page."
+msgstr ""
+
+#: ../inc/customizer.php:2305
+msgid "WhatsApp Number"
+msgstr ""
+
+#: ../inc/customizer.php:2306
+msgid "You can add a phone number for order on WhatsApp."
+msgstr ""
+
+#: ../inc/customizer.php:2324
+msgid "Move Review Tab"
+msgstr ""
+
+#: ../inc/customizer.php:2325
+msgid "Move the review tab out of tabs"
+msgstr ""
+
+#: ../inc/customizer.php:2336
+msgid "Social Share (Product Detail)"
+msgstr ""
+
+#: ../inc/customizer.php:2337
+msgid "Disable or Enable social share buttons."
+msgstr ""
+
+#: ../inc/customizer.php:2352
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer.php:2353
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer.php:2354
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer.php:2355
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/customizer.php:2356
+msgid "Reddit"
+msgstr ""
+
+#: ../inc/customizer.php:2357
+msgid "Whatsapp"
+msgstr ""
+
+#: ../inc/customizer.php:2374
+msgid "Related Post Column"
+msgstr ""
+
+#: ../inc/customizer.php:2375
+msgid "You can control related post column with this option."
+msgstr ""
+
+#: ../inc/customizer.php:2394 ../inc/customizer.php:2461 
+#: ../inc/customizer.php:3129 ../inc/customizer.php:3135 
+#: ../inc/customizer.php:3249 ../inc/customizer.php:3405
+msgid "You can upload an image."
+msgstr ""
+
+#: ../inc/customizer.php:2407 ../inc/customizer.php:2466
+msgid "Set Title"
+msgstr ""
+
+#: ../inc/customizer.php:2419 ../inc/customizer.php:2472
+msgid "Set Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:2420 ../inc/customizer.php:2473
+msgid "You can set a subtitle."
+msgstr ""
+
+#: ../inc/customizer.php:2431 ../inc/customizer.php:2478
+msgid "Set URL"
+msgstr ""
+
+#: ../inc/customizer.php:2432 ../inc/customizer.php:2479
+msgid "Set an url for the button"
+msgstr ""
+
+#: ../inc/customizer.php:2445
+msgid "Banner For Categories"
+msgstr ""
+
+#: ../inc/customizer.php:2446
+msgid "You can set banner for each category."
+msgstr ""
+
+#: ../inc/customizer.php:2452 ../inc/customizer.php:2923
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/customizer.php:2453 ../inc/customizer.php:2924
+msgid "Set a category"
+msgstr ""
+
+#: ../inc/customizer.php:2492
+msgid "Shop Banner Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:2504
+msgid "Shop Banner Subtitle Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:2516
+msgid "You can choose a layout for the login form."
+msgstr ""
+
+#: ../inc/customizer.php:2521
+msgid "Login Tab"
+msgstr ""
+
+#: ../inc/customizer.php:2531
+msgid "Register - First Name"
+msgstr ""
+
+#: ../inc/customizer.php:2535 ../inc/customizer.php:2550 
+#: ../inc/customizer.php:2565 ../inc/customizer.php:2580
+msgid "Hidden"
+msgstr ""
+
+#: ../inc/customizer.php:2536 ../inc/customizer.php:2551 
+#: ../inc/customizer.php:2566 ../inc/customizer.php:2581
+msgid "Visible"
+msgstr ""
+
+#: ../inc/customizer.php:2546
+msgid "Register - Last Name"
+msgstr ""
+
+#: ../inc/customizer.php:2561
+msgid "Register - Billing Company"
+msgstr ""
+
+#: ../inc/customizer.php:2576
+msgid "Register - Billing Phone"
+msgstr ""
+
+#: ../inc/customizer.php:2591
+msgid "Activate Ajax for Login Form"
+msgstr ""
+
+#: ../inc/customizer.php:2604
+msgid "Free shipping bar"
+msgstr ""
+
+#: ../inc/customizer.php:2615
+msgid "Goal Amount"
+msgstr ""
+
+#: ../inc/customizer.php:2616
+#, php-format
+msgid ""
+"Amount to reach 100% defined in your currency absolute value. For example: "
+"300"
+msgstr ""
+
+#: ../inc/customizer.php:2634
+msgid "Cart page"
+msgstr ""
+
+#: ../inc/customizer.php:2652
+msgid "Mini cart"
+msgstr ""
+
+#: ../inc/customizer.php:2670
+msgid "Checkout page"
+msgstr ""
+
+#: ../inc/customizer.php:2688
+msgid "Initial Message"
+msgstr ""
+
+#: ../inc/customizer.php:2689
+msgid ""
+"Message to show before reaching the goal. Use shortcode [remainder] to "
+"display the amount left to reach the minimum."
+msgstr ""
+
+#: ../inc/customizer.php:2707
+msgid "Success message"
+msgstr ""
+
+#: ../inc/customizer.php:2708
+msgid "Message to show after reaching 100%."
+msgstr ""
+
+#: ../inc/customizer.php:2730
+msgid "You can choose a layout."
+msgstr ""
+
+#: ../inc/customizer.php:2759
+msgid "Color Danger"
+msgstr ""
+
+#: ../inc/customizer.php:2760
+msgid "You can customize the color danger."
+msgstr ""
+
+#: ../inc/customizer.php:2771
+msgid "Color Success"
+msgstr ""
+
+#: ../inc/customizer.php:2772
+msgid "You can customize the color success."
+msgstr ""
+
+#: ../inc/customizer.php:2783
+msgid "Color Success Dark"
+msgstr ""
+
+#: ../inc/customizer.php:2784
+msgid "You can customize the color success dark."
+msgstr ""
+
+#: ../inc/customizer.php:2795
+msgid "Color Success Light"
+msgstr ""
+
+#: ../inc/customizer.php:2796
+msgid "You can customize the color success light."
+msgstr ""
+
+#: ../inc/customizer.php:2807
+msgid "Color Warning"
+msgstr ""
+
+#: ../inc/customizer.php:2808
+msgid "You can customize the color warning."
+msgstr ""
+
+#: ../inc/customizer.php:2819
+msgid "Color Warning Light"
+msgstr ""
+
+#: ../inc/customizer.php:2820
+msgid "You can customize the color warning light."
+msgstr ""
+
+#: ../inc/customizer.php:2831 ../inc/customizer.php:2932
+msgid "Before Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2834 ../inc/customizer.php:2848 
+#: ../inc/customizer.php:2876
+msgid "Select a template from elementor templates "
+msgstr ""
+
+#: ../inc/customizer.php:2845 ../inc/customizer.php:2940
+msgid "After Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2859 ../inc/customizer.php:2946
+msgid "Before Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2862 ../inc/customizer.php:2890 
+#: ../inc/customizer.php:2904 ../inc/customizer.php:2935
+msgid ""
+"Select a template from elementor templates, If you want to show any content "
+"before products "
+msgstr ""
+
+#: ../inc/customizer.php:2873 ../inc/customizer.php:2952
+msgid "After Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2887 ../inc/customizer.php:2958
+msgid "Before Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2901
+msgid "After Footer Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:2916
+msgid "Template For Categories"
+msgstr ""
+
+#: ../inc/customizer.php:2917
+msgid "You can set template for each category."
+msgstr ""
+
+#: ../inc/customizer.php:2964
+msgid "After Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2980
+msgid "Google Map Api key"
+msgstr ""
+
+#: ../inc/customizer.php:2981
+msgid "Add your google map api key"
+msgstr ""
+
+#: ../inc/customizer.php:2993
+msgid "You can customize the footer from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:2999
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/customizer.php:3000
+msgid "You can customize the subscribe area."
+msgstr ""
+
+#: ../inc/customizer.php:3004
+msgid "Footer General"
+msgstr ""
+
+#: ../inc/customizer.php:3009
+msgid "Footer Style"
+msgstr ""
+
+#: ../inc/customizer.php:3035
+msgid "Subcribe"
+msgstr ""
+
+#: ../inc/customizer.php:3036
+msgid "Disable or Enable subscribe section."
+msgstr ""
+
+#: ../inc/customizer.php:3047
+msgid "Subscribe Form Id."
+msgstr ""
+
+#: ../inc/customizer.php:3048 ../inc/customizer.php:3529
+msgid "You can find the form id in Dashboard > Mailchimp For Wp > Form."
+msgstr ""
+
+#: ../inc/customizer.php:3067 ../inc/customizer.php:3086
+msgid "You can set text for subscribe section."
+msgstr ""
+
+#: ../inc/customizer.php:3104
+msgid "Contact Title"
+msgstr ""
+
+#: ../inc/customizer.php:3105
+msgid "You can set a title for the contact section."
+msgstr ""
+
+#: ../inc/customizer.php:3116
+msgid "Contact Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:3117
+msgid "You can set a subtitle for the contact section."
+msgstr ""
+
+#: ../inc/customizer.php:3128
+msgid "Contact Images"
+msgstr ""
+
+#: ../inc/customizer.php:3141
+msgid "set an url for the image."
+msgstr ""
+
+#: ../inc/customizer.php:3152
+msgid "Contact Description"
+msgstr ""
+
+#: ../inc/customizer.php:3153
+msgid "You can set a description for the contact section."
+msgstr ""
+
+#: ../inc/customizer.php:3165
+msgid "Subscribe Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3166 ../inc/customizer.php:3310 
+#: ../inc/customizer.php:3358
+msgid "You can set a color for background."
+msgstr ""
+
+#: ../inc/customizer.php:3177
+msgid "Subscribe Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3189
+msgid "Subscribe Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3201
+msgid "Subscribe Contact Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3213
+msgid "Subscribe Contact Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3225
+msgid "Subscribe Contact Description Color"
+msgstr ""
+
+#: ../inc/customizer.php:3236
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/customizer.php:3237
+msgid "You can set a copyright text for the footer."
+msgstr ""
+
+#: ../inc/customizer.php:3262
+msgid "Set Payment URL"
+msgstr ""
+
+#: ../inc/customizer.php:3263
+msgid "Set an url for the payment image"
+msgstr ""
+
+#: ../inc/customizer.php:3274
+msgid "Footer Column"
+msgstr ""
+
+#: ../inc/customizer.php:3275
+msgid "You can set footer column."
+msgstr ""
+
+#: ../inc/customizer.php:3293
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/customizer.php:3294
+msgid "You can choose status of the footer menu on the footer."
+msgstr ""
+
+#: ../inc/customizer.php:3309
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3321
+msgid "Footer Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3333
+msgid "Footer Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3345
+msgid "Footer Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:3346
+msgid "You can set a color for border."
+msgstr ""
+
+#: ../inc/customizer.php:3357
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3369
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: ../inc/customizer.php:3381
+msgid "Footer Menu Color"
+msgstr ""
+
+#: ../inc/customizer.php:3392
+msgid "Enable GDPR"
+msgstr ""
+
+#: ../inc/customizer.php:3393
+msgid "You can choose status of GDPR."
+msgstr ""
+
+#: ../inc/customizer.php:3425
+msgid "GDPR Text"
+msgstr ""
+
+#: ../inc/customizer.php:3443
+msgid "GDPR Expire Date"
+msgstr ""
+
+#: ../inc/customizer.php:3461
+msgid "GDPR Button Text"
+msgstr ""
+
+#: ../inc/customizer.php:3479
+msgid "Enable Newsletter"
+msgstr ""
+
+#: ../inc/customizer.php:3480
+msgid "You can choose status of Newsletter Popup."
+msgstr ""
+
+#: ../inc/customizer.php:3492
+msgid "Newsletter Title"
+msgstr ""
+
+#: ../inc/customizer.php:3510
+msgid "Newsletter Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:3528
+msgid "Newsletter Form Id."
+msgstr ""
+
+#: ../inc/customizer.php:3547
+msgid "Newsletter Expire Date"
+msgstr ""
+
+#: ../newsletter-popup/newsletter.php:50
+msgid "Don't show this popup again."
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:98
+msgid "Choose your Delivery Location"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:99
+msgid "Enter your address and we will specify the offer for your area."
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:104
+msgid "Search your area"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:105
+msgid "Clear All"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:105
+msgid "Select a Location"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:7
+msgid "Display the popular posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:9
+msgid "Clotya Popular Posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:90 ../widgets/widget-social-list.php:64 
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:156
+#:  ../woocommerce-filter/widgets/product-status/widget-product-status.php:85
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:95
+msgid "Number of items to show:"
+msgstr ""
+
+#: ../widgets/widget-social-list.php:7
+msgid "Only Detail Page: Social List."
+msgstr ""
+
+#: ../widgets/widget-social-list.php:9
+msgid "Clotya Social list"
+msgstr ""
+
+#: ../widgets/widget-social-list.php:69
+msgid ""
+"You can customize the social list from Dashboard > Appearance > Customize > "
+"Clotya Widgets > Social List"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:190
+msgid "Clear filters"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:216 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:48
+msgid "In Stock"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:220 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:55
+msgid "On Sale"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:489
+msgid "Available:"
+msgstr ""
+
+#: ../woocommerce-filter/ajax-login/ajax-login.php:44 
+#: ../woocommerce-filter/ajax-login/ajax-login.php:48 
+#: ../woocommerce-filter/ajax-login/ajax-login.php:121
+msgid "Error:"
+msgstr ""
+
+#: ../woocommerce-filter/ajax-login/ajax-login.php:48
+msgid "Username is required."
+msgstr ""
+
+#: ../woocommerce-filter/ajax-login/ajax-login.php:133
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address."
+msgstr ""
+
+#: ../woocommerce-filter/ajax-login/ajax-login.php:135
+msgid ""
+"Your account was created successfully. Your login details have been sent to "
+"your email address."
+msgstr ""
+
+#: ../woocommerce-filter/ajax-search/ajax-search.php:74
+msgid "See all products..."
+msgstr ""
+
+#: ../woocommerce-filter/ajax-search/ajax-search.php:81
+#, php-format
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: ../woocommerce-filter/buy-now/buy-now.php:7
+msgid "Buy Now"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:77
+msgid "Show:"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:85
+msgid "Items"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:102
+msgid "Filter Products"
+msgstr ""
+
+#: ../woocommerce-filter/load-more/load-more.php:52 
+#: ../woocommerce-filter/load-more/load-more.php:98
+msgid "No More Products"
+msgstr ""
+
+#: ../woocommerce-filter/min-amount/min-amount.php:19
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order "
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:21
+msgid "Quantity Settings"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:23
+msgid "Enable this to show and enable the additional quantity setting fields."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:30
+msgid "Minimum Quantity"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:33
+msgid "Set a minimum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:38
+msgid "Maximum Quantity"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:41
+msgid "Set the maximum allowed quantity limit (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:46
+msgid "Quantity Step"
+msgstr ""
+
+#: ../woocommerce-filter/minmax-quantity/minmax-quantity.php:49
+msgid "Optional. Set quantity step (a number greater than 0)."
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:67
+msgid "Store"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:105
+msgid "Account"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:115
+msgid "Categories"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:23
+msgid "Badge"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:37
+msgid "Badge Text"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:39
+msgid "Badge Text."
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:44
+msgid "Badge Type"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:46
+msgid "Choose a badge type."
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:50 
+#: ../woocommerce-filter/product-badge/product-badge.php:82
+msgid "Style 3"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:56
+msgid "Badge BG Color"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:62
+msgid "Badge Text Color"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:68
+msgid "Hide Percentage"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:69
+msgid "Enable this to hide the percentage label."
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:76
+msgid "Percentage Type"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:78
+msgid "If the product is on sale."
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:88
+msgid "Percentage BG Color"
+msgstr ""
+
+#: ../woocommerce-filter/product-badge/product-badge.php:94
+msgid "Percentage Text Color"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:15
+msgid "Video"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:28
+msgid "Video URL"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:31
+msgid "Enter a youtube or a vimeo video url for the single product."
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:62
+msgid "Watch video"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:27
+msgid "Product 360 View"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete image"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add Images to Product 360 view Gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add to gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add product 360 view gallery images"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:161
+msgid "360 product view"
+msgstr ""
+
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:94 
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:164
+msgid "No products found"
+msgstr ""
+
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:131
+msgid "Recent Views"
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:10
+msgid "First Name"
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:17
+msgid "Last Name"
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:24 
+#: ../woocommerce-filter/registration-fields/registration-fields.php:103
+msgid "Company Name"
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:30 
+#: ../woocommerce-filter/registration-fields/registration-fields.php:109
+msgid "Phone"
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:55
+msgid "Please enter a valid first name."
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:59
+msgid "Please enter a valid last name."
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:62 
+#: ../woocommerce-filter/registration-fields/registration-fields.php:146
+msgid "Please enter a valid company name."
+msgstr ""
+
+#: ../woocommerce-filter/registration-fields/registration-fields.php:66 
+#: ../woocommerce-filter/registration-fields/registration-fields.php:150
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:64
+msgid "Permissions check failed"
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:133
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:134
+msgid "Remove image"
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:208
+msgid "Value"
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:267
+msgid "Choose"
+msgstr ""
+
+#: ../woocommerce-filter/swatches/swatches.php:274
+msgid "Clear"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:8
+msgid "For Main Shop Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:10
+msgid "Clotya Product Categories"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:161
+msgid "Exclude id:"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:7
+msgid "For Product Archive Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:9
+msgid "Clotya Product Status"
+msgstr ""

@@ -1,0 +1,4 @@
+2023-06-17T05:34:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в C:\wamp64\www\wordpress\wp-content\plugins\google-listings-and-ads\vendor\symfony\translation-contracts\TranslatorInterface.php на строке 68
+
+2023-06-17T05:34:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в C:\wamp64\www\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php на строке 9
+

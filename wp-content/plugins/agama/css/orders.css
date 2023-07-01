@@ -1,0 +1,121 @@
+/* ================= ADMIN TABLES ================== */
+
+.column-custom_order_product {
+    width: 70px !important;
+}
+
+.custom_order_product a {
+    display: block;
+    width: 70px;
+    border: 1px solid #c3c4c7;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='2' height='2'%3E%3Cpath d='M1,0H0V1H2V2H1' fill='%23FFFFFF'/%3E%3C/svg%3E") left top/contain #ccc;
+    background-size: 10px 10px;
+}
+
+.custom_order_product img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.agama-order-status {
+    display: inline-flex;
+    line-height: 2.5em;
+    color: #777;
+    background: #e5e5e5;
+    border-radius: 4px;
+    border-bottom: 1px solid rgba(0, 0, 0, .05);
+    cursor: inherit !important;
+    white-space: nowrap;
+    max-width: 100%;
+}
+
+.agama-order-status>span {
+    margin: 0 1em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.agama-order-status.status-on-hold {
+    background: #f8dda7;
+    color: #94660c;
+}
+
+.agama-order-status.status-processing {
+    background: #c6e1c6;
+    color: #5b841b;
+}
+
+.agama-order-status.status-completed {
+    background: #c8d7e1;
+    color: #2e4453;
+}
+
+/* ================= ORDER INFO ================== */
+
+.agama-order-info-thumb img {
+    width: 300px;
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+}
+
+.agama-order-info {
+    margin: 15px 0 5px 0;
+}
+
+.agama-order-info-list>div {
+    margin: 10px 0;
+    display: block;
+}
+
+.agama-order-info-view {
+    margin-top: 20px;
+}
+
+.agama-order-info-view .button {
+    display: block;
+    text-align: center
+}
+
+.agama-attr-label {
+    text-transform: capitalize;
+}
+
+.agama-attr-label:after {
+    content: ', ';
+}
+
+.agama-attr-label:last-child:after {
+    content: '';
+}
+
+/* ================= ATTACHMENTS ================== */
+
+.agama-attachment {
+    display: flex;
+    border-bottom: 1px dashed #c3c4c7;
+    margin: 15px 0 0 0 !important;
+    padding-bottom: 15px;
+    align-items: center;
+}
+
+.agama-attachment:last-child {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.agama-attachment h4 {
+    text-transform: uppercase;
+    margin:0;
+}
+
+.agama-attachment-edit,
+.agama-attachment-view {
+    margin-left: auto;
+}
+
+.agama-attachment-download {
+  margin-left:10px;
+}

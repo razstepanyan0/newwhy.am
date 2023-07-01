@@ -1,0 +1,187 @@
+@media all {
+    .featherlight {
+        background: rgba(0, 0, 0, 0.7);
+        display: none;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 2147483647;
+        text-align: center;
+        white-space: nowrap;
+        cursor: pointer
+    }
+
+    .featherlight:before {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -.25em
+    }
+
+    .featherlight .featherlight-content {
+        position: relative;
+        text-align: left;
+        vertical-align: middle;
+        display: inline-block;
+        overflow: auto;
+        padding: 0;
+        margin: 0;
+        max-height: 100%;
+        cursor: auto;
+        white-space: normal;
+        background-color: #111
+    }
+
+    .featherlight .featherlight-inner {
+        display: block
+    }
+
+    .featherlight-next,
+    .featherlight-previous,
+    .featherlight .featherlight-close-icon {
+        font-family: 'Material Icons';
+        display: block;
+        color: #fff;
+        position: fixed;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border-radius: 100%;
+        font-size: 30px;
+        text-align: center;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        top: 0;
+        line-height: 1
+    }
+
+    .featherlight-next,
+    .featherlight-previous {
+        top: 50%;
+        margin-top: -30px
+    }
+
+    .featherlight-previous {
+        left: 20px
+    }
+
+    .featherlight-next {
+        right: 20px
+    }
+
+    .featherlight .featherlight-close-icon {
+        top: 20px;
+        right: 20px;
+        border:none !important;
+    }
+
+    .featherlight .featherlight-image {
+        width: 100%
+    }
+
+    .featherlight-iframe .featherlight-content {
+        padding: 0
+    }
+
+    .featherlight iframe {
+        border: none
+    }
+
+    .featherlight * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box
+    }
+
+    .featherlight-close-icon,
+    .featherlight-next,
+    .featherlight-previous {
+        background: transparent;
+        -webkit-transition: all .2s ease-in-out;
+        -moz-transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out;
+        opacity: .9
+    }
+
+    .featherlight-next:hover,
+    .featherlight-previous:hover,
+    .featherlight-close-icon:hover {
+        background: transparent;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes featherlightLoader {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes featherlightLoader {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+.featherlight-loading .featherlight-content {
+    -webkit-animation: featherlightLoader 1s infinite linear;
+    animation: featherlightLoader 1s infinite linear;
+    background: transparent;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 60px;
+    width: 60px;
+    height: 60px;
+    min-width: 0;
+    border-color: #111 #111 #111 #fff
+}
+
+.featherlight-loading .featherlight-content>* {
+    display: none !important
+}
+
+.featherlight-loading .featherlight-close,
+.featherlight-loading .featherlight-inner {
+    display: none
+}
+
+@media only screen and (max-width: 480px) {
+
+    .featherlight-next,
+    .featherlight-previous,
+    .featherlight .featherlight-close-icon {
+        font-size: 20px
+    }
+
+    .featherlight .featherlight-close-icon {
+        top: 10px;
+        right: 10px
+    }
+
+    .featherlight-previous {
+        left: 10px
+    }
+
+    .featherlight-next {
+        right: 10px
+    }
+}
